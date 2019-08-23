@@ -1,2 +1,3 @@
-# gadgetsmenu-pl
-Polskie Tłumaczenie Do GadgetsMenu, by EastCore.eu
+# GadgetsMenu po Polsku
+Polskie Tłumaczenie Do GadgetsMenu, wykonane przez administrację serwera minecraft EastCore.eu (Nub, DCDS002, dada513)
+### Projekt w trakcie przygotowywania, jeszcze tłumaczenie nie zostało skończone.
