@@ -64,7 +64,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Redpool:
-    Name: '&5Repool'
+    Name: '&5Redpool'
     Mystery Dust: 42
     Rarity: Epic
     Enabled: true
@@ -80,7 +80,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Pug:
-    Name: '&5Pug Banner'
+    Name: '&5Mops'
     Mystery Dust: 48
     Rarity: Epic
     Enabled: true
@@ -88,7 +88,7 @@ Banners:
     Purchasable: true
     Lore: ''
   Skull King:
-    Name: '&6Skull King Banner'
+    Name: '&6Czaszkowy Krol'
     Mystery Dust: 65
     Rarity: Legendary
     Enabled: true
