@@ -49,7 +49,527 @@ Mystery-Boxes:
         - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
         - '             &b&lMystery Box'
         - ''
+        - '  &7Znalazles Lup!'# Translation by Team EastCore Staff.
+# Git: https://github.com/eastcore/gadgetsmenu-pl
+Mystery-Boxes:
+  Enabled: true
+  Loots-Can-Be-Found:
+    Hats: true
+    Animated Hats: true   
+    Particles: true
+    Suits: true
+    Gadgets: true
+    Pets: true
+    Banners: true
+    Morphs: true
+    Emotes: true
+    Cloaks: true
+  Chance:
+    Common: 70
+    Rare: 15
+    Epic: 10
+    Legendary: 5
+  Rarity:
+    Common: '&aPospolite'
+    Rare: '&9Rzadkie'
+    Epic: '&5Epickie'
+    Legendary: '&6Legendarne'
+  Execute-Command: pex user {PLAYER} add {PERMISSION}
+  Found-Loot:
+    Common:
+      Play-Sound:
+        Enabled: true
+        Sound: ENTITY_CHICKEN_EGG
+      Send-Message:
+        Enabled: true
+        Message:
+        - ??????????????????
+        - '             &b&lMystery Box'
+        - ''
         - '  &7Znalazles Lup!'
+        - '  &71x &a&lPospolity {LOOT}'
+        - ''
+        - ??????????????????
+    Rare:
+      Play-Sound:
+        Enabled: true
+        Sound: ENTITY_VILLAGER_AMBIENT
+      Send-Message:
+        Enabled: true
+        Message:
+        - ??????????????????
+        - '             &b&lMystery Box'
+        - ''
+        - '  &7Znalazles Lup!'
+        - '  &71x &9&lRzadkie {LOOT}'
+        - ''
+        - ??????????????????
+    Epic:
+      Play-Sound:
+        Enabled: true
+        Sound: ENTITY_PLAYER_LEVELUP
+      Send-Message:
+        Enabled: true
+        Message:
+        - ??????????????????
+        - '             &b&lMystery Box'
+        - ''
+        - '  &7Znalazles Lup!'
+        - '  &71x &5&lEpickie {LOOT}'
+        - ''
+        - ??????????????????
+    Legendary:
+      Play-Sound:
+        Enabled: true
+        Sound: ENTITY_ENDER_DRAGON_AMBIENT
+      Send-Message:
+        Enabled: true
+        Message:
+        - ??????????????????
+        - '             &b&lMystery Box'
+        - ''
+        - '  &7Znalazles Lup!'
+        - '  &71x &6&lLegendarne {LOOT}'
+        - ''
+        - ??????????????????
+  Already-Had-Loot:
+    Common:
+      Give-Mystery-Dust:
+        Enabled: true
+        Min: 1
+        Max: 3
+      Send-Message:
+        Enabled: true
+        Message:
+        - '&7Juz posiadasz &aPospolite {LOOT} &7wiec'
+        - '&7Otrzymales &a{MYSTERY_DUSTx} Mystery Dust &7zamiast tego.'
+      Execute-Command:
+        Enabled: false
+        Command: eco give {PLAYER} 2
+    Rare:
+      Give-Mystery-Dust:
+        Enabled: true
+        Min: 4
+        Max: 8
+      Send-Message:
+        Enabled: true
+        Message:
+        - '&7Juz miales &9Rzadki {LOOT}, &7wiec'
+        - '&7Otrzymales &a{MYSTERY_DUST} Mystery Dust zamiast tego.'
+      Execute-Command:
+        Enabled: false
+        Command: eco give {PLAYER} 5
+    Epic:
+      Give-Mystery-Dust:
+        Enabled: true
+        Min: 9
+        Max: 25
+      Send-Message:
+        Enabled: true
+        Message:
+        - '&7Juz miales &5Epicki {LOOT}, &7wiec'
+        - '&7Dostales &a{MYSTERY_DUST} Mystery Dust &7zamiast tego.'
+      Execute-Command:
+        Enabled: false
+        Command: eco give {PLAYER} 8
+    Legendary:
+      Give-Mystery-Dust:
+        Enabled: true
+        Min: 26
+        Max: 36
+      Send-Message:
+        Enabled: true
+        Message:
+        - '&7Juz miales &6Legendarny {LOOT}, &7wiec'
+        - '&7Otrzymales &a{MYSTERY_DUST} Mystery Dust &7zamiast tego.'
+      Execute-Command:
+        Enabled: false
+        Command: eco give {PLAYER} 12
+  Holograms:
+    Found-Loot:
+      Common: '&aZwykly {LOOT}'
+      Rare: '&9Rzadki {LOOT}'
+      Epic: '&5Epicki {LOOT}'
+      Legendary: '&6Legendarny {LOOT}'
+    Mystery-Vault:
+      Line-1: '&bMystery Box'
+      Line-2: '&e&lKliknij prawym'
+    Individual-Holograms:
+      Enabled: true
+      Available-Mystery-Boxes:
+      - '&c{MYSTERY_BOXES} dostepne'
+      - '&f{MYSTERY_BOXES} dostepne'
+      Zero-Mystery-Box-Available: '&cBrak dostepnych boxow'
+  Broadcast:
+    Opening-Mystery-Box:
+      Enabled: true
+      Message: '&b[Mystery Box] &7{PLAYER} &rotwiera Mystery Boxa.'
+    Found-Loot:
+      Common:
+        Enabled: true
+        Message: '&b[Mystery Box] &7{PLAYER} &rznalazl &aZwykle {LOOT}&r!'
+      Rare:
+        Enabled: true
+        Message: '&b[Mystery Box] &7{PLAYER} &rznalazl &9Rzadkie {LOOT}&r!'
+      Epic:
+        Enabled: true
+        Message: '&b[Mystery Box] &7{PLAYER} &rznalazl &5Epickie {LOOT}&r!'
+      Legendary:
+        Enabled: true
+        Message: '&b[Mystery Box] &7{PLAYER} &rznalazl &6Legendarne {LOOT}&r!'
+    Found-Mystery-Box:
+      One-Star:
+        Enabled: true
+        Message: '{PLAYER} &fznalazl &e?&7???? &fMystery Box!'
+      Two-Star:
+        Enabled: true
+        Message: '{PLAYER} &fznalazl &e??&7??? &fMystery Box!'
+      Three-Star:
+        Enabled: true
+        Message: '{PLAYER} &fznalazl &e???&7?? &fMystery Box!'
+      Four-Star:
+        Enabled: true
+        Message: '{PLAYER} &fznalazl &e????&7? &fMystery Box!'
+      Five-Star:
+        Enabled: true
+        Message: '{PLAYER} &fznalazl &e????? &fMystery Box!'
+  Mystery-Boxes-Reward:
+    Enabled: true
+    Chance-To-Get-Mystery-Box: 60
+    Chance:
+      One-Star: 5
+      Two-Star: 10
+      Three-Star: 60
+      Four-Star: 20
+      Five-Star: 5
+    Play-Time:
+      Hours: 0
+      Minutes: 60
+      Seconds: 0
+    Message:
+      One-Star: '&fZnalazles &e?&7???? &fMystery Box!'
+      Two-Star: '&fZnalazles &e??&7??? &fMystery Box!'
+      Three-Star: '&fZnalazles &e???&7?? &fMystery Box!'
+      Four-Star: '&fZnalazles &e????&7? &fMystery Box!'
+      Five-Star: '&fZnalazles &e????? &fMystery Box!'
+  Types:
+    Normal-Mystery-Box:
+      Name: '&aMystery Box'
+      Material: ENDER_CHEST
+      Lore:
+        Expiry-Date: '&cWygasa za {EXPIRY_DATE}'
+        Never-Expired: '&7Nie wygasa.'
+        Quality:
+          One-Star:
+          - '&7Ten mystery box zawiera jedno z:'
+          - ''
+          - '&aZwykle {ITEM_ONE}'
+          - '&aZwykle {ITEM_TWO}'
+          - '&aZwykle {ITEM_THREE}'
+          - '&aZwykle {ITEM_FOUR}'
+          - '&9Zwykle {ITEM_FIVE}'
+          - '&5Epickie {ITEM_SIX}'
+          - '&6Legendarne {ITEM_SEVEN}'
+          - ''
+          - '&7Jakosc: &e?&7????'
+          - '{EXPIRY_DATE}'
+          - ''
+          - '&eKliknij, aby otworzyc'
+          Two-Star:
+          - '&7Ten mystery box zawiera jedno z:'
+          - ''
+          - '&aZwykle {ITEM_ONE}'
+          - '&aZwykle {ITEM_TWO}'
+          - '&aZwykle {ITEM_THREE}'
+          - '&9Rzadkie {ITEM_FOUR}'
+          - '&9Rzadkie {ITEM_FIVE}'
+          - '&5Epickie {ITEM_SIX}'
+          - '&6Legendarne {ITEM_SEVEN}'
+          - ''
+          - '&7akosc: &e??&7???'
+          - '{EXPIRY_DATE}'
+          - ''
+          - '&eKliknij, aby otworzyc'
+          Three-Star:
+          - '&7Ten mystery box zawiera jedno z:'
+          - ''
+          - '&aZwykle {ITEM_ONE}'
+          - '&aZwykle {ITEM_TWO}'
+          - '&9Rzadkie {ITEM_THREE}'
+          - '&9Rzadkie {ITEM_FOUR}'
+          - '&5Epickie {ITEM_FIVE}'
+          - '&5Epickie {ITEM_SIX}'
+          - '&6Legendarne {ITEM_SEVEN}'
+          - ''
+          - '&7Jakosc: &e???&7??'
+          - '{EXPIRY_DATE}'
+          - ''
+          - '&eKliknij, aby otworzyc!'
+          Four-Star:
+          - '&7Ten mystery box zawiera jedno z:'
+          - ''
+          - '&aZwykle {ITEM_ONE}'
+          - '&9Rzadkie {ITEM_TWO}'
+          - '&5Epickie {ITEM_THREE}'
+          - '&5Epickie {ITEM_FOUR}'
+          - '&6Legendarne {ITEM_FIVE}'
+          - '&6Legendarne {ITEM_SIX}'
+          - '&6Legendarne {ITEM_SEVEN}'
+          - ''
+          - '&7Jakosc: &e????&7?'
+          - '{EXPIRY_DATE}'
+          - ''
+          - '&eKliknij, aby otworzyc'
+          Five-Star:
+          - '&7Ten mystery box zawiera jedno z:'
+          - ''
+          - '&9Rzadkie {ITEM_ONE}'
+          - '&5Epickie {ITEM_TWO}'
+          - '&5Epickie {ITEM_THREE}'
+          - '&6Legendarne {ITEM_FOUR}'
+          - '&6Legendarne {ITEM_FIVE}'
+          - '&6Legendarne {ITEM_SIX}'
+          - '&6Legendarne {ITEM_SEVEN}'
+          - ''
+          - '&7Jakosc: &e?????'
+          - '{EXPIRY_DATE}'
+          - ''
+          - '&eKliknij, aby otworzyc'
+    Gifted-Mystery-Box:
+      Name: '&dZgiftowany Mystery Box'
+      Material: ENDER_CHEST
+      Lore:
+        One-Star:
+        - '&7Ten mystery box zawiera jedno z:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&aZwykle {ITEM_THREE}'
+        - '&aZwykle {ITEM_FOUR}'
+        - '&9Rzadkie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'''
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e?&7????'
+        - ''
+        - '&7Otrzymales ten gift od:'
+        - '&7{SENDER}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+        Two-Star:
+        - '&7Ten mystery box zawiera jedno z:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&aZwykle {ITEM_THREE}'
+        - '&9Rzadkie {ITEM_FOUR}'
+        - '&9Rzadkie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e??&7???'
+        - ''
+        - '&7Otrzymales ten gift od:'
+        - '&7{SENDER}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+        Three-Star:
+        - '&7Ten mystery box zawiera jedno z:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&9Rzadkie {ITEM_THREE}'
+        - '&9Rzadkie {ITEM_FOUR}'
+        - '&5Epickie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e???&7??'
+        - ''
+        - '&7Otrzymales ten gift od:'
+        - '&7{SENDER}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+        Four-Star:
+        - '&7Ten mystery box zawiera jedno z:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&9Rzadkie {ITEM_TWO}'
+        - '&5Epickie {ITEM_THREE}'
+        - '&5Epickie {ITEM_FOUR}'
+        - '&6Legendarne {ITEM_FIVE}'
+        - '&6Legendarne {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e????&7?'
+        - ''
+        - '&7Otrzymales ten gift od:'
+        - '&7{SENDER}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+        Five-Star:
+        - '&7Ten mystery box zawiera jedno z:'
+        - ''
+        - '&9Rzadkie {ITEM_ONE}'
+        - '&5Epickie {ITEM_TWO}'
+        - '&5Epickie {ITEM_THREE}'
+        - '&6Legendarne {ITEM_FOUR}'
+        - '&6Legendarne {ITEM_FIVE}'
+        - '&6Legendarne {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e?????'
+        - ''
+        - '&7Otrzymales ten gift od:'
+        - '&7{SENDER}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+    Crafted-Mystery-Box:
+      One-Star:
+        Name: '&bCrafted Mystery Box #1'
+        Material: ENDER_CHEST
+        Lore:
+        - '&7Ten mystery box zawiera jedno z:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&aZwykle {ITEM_THREE}'
+        - '&aZwykle {ITEM_FOUR}'
+        - '&9Rzadkie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e?&7????'
+        - '&bScraftowane {DATE}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+      Two-Star:
+        Name: '&bCrafted Mystery Box #2'
+        Material: ENDER_CHEST
+        Lore:
+        - '&7Ten mystery box zawiera jedno z:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&aZwykle {ITEM_THREE}'
+        - '&9Rzadkie {ITEM_FOUR}'
+        - '&9Rzadkie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e??&7???'
+        - '&bScraftowane {DATE}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+      Three-Star:
+        Name: '&bCrafted Mystery Box #3'
+        Material: ENDER_CHEST
+        Lore:
+        - '&7Ten mystery box zawiera jedno z:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&aZwykle {ITEM_TWO}'
+        - '&9Rzadkie {ITEM_THREE}'
+        - '&9Rzadkie {ITEM_FOUR}'
+        - '&5Epickie {ITEM_FIVE}'
+        - '&5Epickie {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e???&7??'
+        - '&bScraftowane {DATE}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+      Four-Star:
+        Name: '&bCrafted Mystery Box #4'
+        Material: ENDER_CHEST
+        Lore:
+        - '&7Ten mystery box zawiera jedno z:'
+        - ''
+        - '&aZwykle {ITEM_ONE}'
+        - '&9Rzadkie {ITEM_TWO}'
+        - '&5Epickie {ITEM_THREE}'
+        - '&5Epickie {ITEM_FOUR}'
+        - '&6Legendarne {ITEM_FIVE}'
+        - '&6Legendarne {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e????&7?'
+        - '&bScraftowane {DATE}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+      Five-Star:
+        Name: '&bCrafted Mystery Box #5'
+        Material: ENDER_CHEST
+        Lore:
+        - '&7Ten mystery box zawiera jedno z:'
+        - ''
+        - '&9Rzadkie {ITEM_ONE}'
+        - '&5Epickie {ITEM_TWO}'
+        - '&5Epickie {ITEM_THREE}'
+        - '&6Legendarne {ITEM_FOUR}'
+        - '&6Legendarne {ITEM_FIVE}'
+        - '&6Legendarne {ITEM_SIX}'
+        - '&6Legendarne {ITEM_SEVEN}'
+        - ''
+        - '&7Jakosc: &e?????'
+        - '&bScraftowane {DATE}'
+        - ''
+        - '&eKliknij, aby otworzyc!'
+  JSON-Messages:
+    Found-Mystery-Box:
+      One-Star:
+        Name: '&bMystery Box'
+        Lore:
+        - '&7Rzadkosc: &e?&7????'
+        - '&7Mozesz znalesc tego &bMystery Boxa '
+        - '&7Grajac na naszym serwerze.'
+      Two-Star:
+        Name: '&bMystery Box'
+        Lore:
+        - '&7Rzadkosc: &e??&7???'
+        - '&7Mozesz znalesc tego &bMystery Boxa '
+        - '&7Grajac na naszym serwerze.'
+      Three-Star:
+        Name: '&bMystery Box'
+        Lore:
+        - '&7Rzadkosc: &e???&7??'
+        - '&7Mozesz znalesc tego &bMystery Boxa '
+        - '&7Grajac na naszym serwerze.'
+      Four-Star:
+        Name: '&bMystery Box'
+        Lore:
+        - '&7Rzadkosc: &e????&7?'
+        - '&7Mozesz znalesc tego &bMystery Boxa '
+        - '&7Grajac na naszym serwerze.'
+      Five-Star:
+        Name: '&bMystery Box'
+        Lore:
+        - '&7Rzadkosc: &e?????'
+        - '&7Mozesz znalesc tego &bMystery Boxa '
+        - '&7Grajac na naszym serwerze.'
+    Found-Loot:
+      Common:
+        Name: '&aZwykle {LOOT}'
+        Lore:
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &aZwykle'
+      Rare:
+        Name: '&9Rzadkie {LOOT}'
+        Lore:
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &9Rzadkie'
+      Epic:
+        Name: '&5Epickie {LOOT}'
+        Lore:
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &5Epickie'
+      Legendary:
+        Name: '&6Legendarne {LOOT}'
+        Lore:
+        - '&7Typ: {CATEGORY}'
+        - '&7Rzadkosc: &6Legendarne'
+
+
         - '  &71x &9&lRzadkie {LOOT}'
         - ''
         - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
@@ -91,7 +611,7 @@ Mystery-Boxes:
         Enabled: true
         Message:
         - '&7Juz posiadasz &aPospolite {LOOT} &7wiec'
-        - '&7otrzymales &a{MYSTERY_DUSTx} Mystery Dust &7zamiast tego.'
+        - '&7Otrzymales &a{MYSTERY_DUSTx} Mystery Dust &7zamiast tego.'
       Execute-Command:
         Enabled: false
         Command: eco give {PLAYER} 2
@@ -104,7 +624,7 @@ Mystery-Boxes:
         Enabled: true
         Message:
         - '&7Już miałeś &9Rzadki {LOOT}, &7więc'
-        - '&7otrzymałeś &a{MYSTERY_DUST} Mystery Dust zamiast tego.'
+        - '&7Otrzymałeś &a{MYSTERY_DUST} Mystery Dust zamiast tego.'
       Execute-Command:
         Enabled: false
         Command: eco give {PLAYER} 5
@@ -117,7 +637,7 @@ Mystery-Boxes:
         Enabled: true
         Message:
         - '&7Już miałeś &5Epicki {LOOT}, &7więc'
-        - '&7dostałeś &a{MYSTERY_DUST} Mystery Dust &7zamiast tego.'
+        - '&7Dostałeś &a{MYSTERY_DUST} Mystery Dust &7zamiast tego.'
       Execute-Command:
         Enabled: false
         Command: eco give {PLAYER} 8
@@ -130,7 +650,7 @@ Mystery-Boxes:
         Enabled: true
         Message:
         - '&7Już miałeś &6Legendarny {LOOT}, &7więc'
-        - '&7otrzymałeś &a{MYSTERY_DUST} Mystery Dust &7zamiast tego.'
+        - '&7Otrzymałeś &a{MYSTERY_DUST} Mystery Dust &7zamiast tego.'
       Execute-Command:
         Enabled: false
         Command: eco give {PLAYER} 12
@@ -471,31 +991,31 @@ Mystery-Boxes:
         Lore:
         - '&7Rzadkość: &e✰&7✰✰✰✰'
         - '&7Możesz znaleść tego &bMystery Boxa '
-        - '&7grając na naszym serwerze.'
+        - '&7Grając na naszym serwerze.'
       Two-Star:
         Name: '&bMystery Box'
         Lore:
         - '&7Rzadkość: &e✰✰&7✰✰✰'
         - '&7Możesz znaleść tego &bMystery Boxa '
-        - '&7grając na naszym serwerze.'
+        - '&7Grając na naszym serwerze.'
       Three-Star:
         Name: '&bMystery Box'
         Lore:
         - '&7Rzadkość: &e✰✰✰&7✰✰'
         - '&7Możesz znaleść tego &bMystery Boxa '
-        - '&7grając na naszym serwerze.'
+        - '&7Grając na naszym serwerze.'
       Four-Star:
         Name: '&bMystery Box'
         Lore:
         - '&7Rzadkość: &e✰✰✰✰&7✰'
         - '&7Możesz znaleść tego &bMystery Boxa '
-        - '&7grając na naszym serwerze.'
+        - '&7Grając na naszym serwerze.'
       Five-Star:
         Name: '&bMystery Box'
         Lore:
         - '&7Rzadkość: &e✰✰✰✰✰'
         - '&7Możesz znaleść tego &bMystery Boxa '
-        - '&7grając na naszym serwerze.'
+        - '&7Grając na naszym serwerze.'
     Found-Loot:
       Common:
         Name: '&aZwykłe {LOOT}'
