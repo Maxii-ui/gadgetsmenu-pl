@@ -1,6 +1,6 @@
 Animated-Hats:
   Siren:
-    Name: '&9Siren Animated Hat'
+    Name: '&9Syrena'
     Mystery Dust: 20
     Rarity: Rare
     Enabled: true
@@ -8,7 +8,7 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Sammy The Cookie:
-    Name: '&9Sammy The Cookie Animated Hat'
+    Name: '&9Sammy Ciastko'
     Mystery Dust: 25
     Rarity: Rare
     Enabled: true
@@ -16,7 +16,7 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Chroma Slime:
-    Name: '&9Chroma Slime Animated Hat'
+    Name: '&9Chromowany Szlam'
     Mystery Dust: 28
     Rarity: Rare
     Enabled: true
@@ -24,7 +24,7 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Color Block:
-    Name: '&9Color Block Animated Hat'
+    Name: '&9Kolorowy Blok'
     Mystery Dust: 28
     Rarity: Rare
     Enabled: true
