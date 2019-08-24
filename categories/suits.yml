@@ -1,124 +1,124 @@
 Suits:
   Frog:
-    Name: '&6Frog Suit'
+    Name: '&6Zaba'
     Enabled: true
     Enabled-Ability: true
     Lore:
     - ''
-    - '&7One of the rarest suits around.'
-    - '&7Browse dank memes from far above'
-    - '&7when you equip this Frog Suit.'
+    - '&7Jeden z najrzadszych strojow.'
+    - '&7Wyszukuj dobrych memow z wysoka,'
+    - '&7kiedy zalozysz ten stroj.'
     - ''
-    - '&7Full Set Ability: Super high'
-    - '&7jump.'
+    - '&7Umiejetnosc Pelnego Zestawu:'
+    - '&7Super skok.'
     Equipments:
       Frog Helmet:
-        Name: '&6Frog Suit Helmet'
+        Name: '&6Zabi helm'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Frog Chestplate:
-        Name: '&5Frog Suit Chestplate'
+        Name: '&5Zabi napiersnik'
         Mystery Dust: 32
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Frog Leggings:
-        Name: '&9Frog Suit Leggings'
+        Name: '&9Zabie spodnie'
         Mystery Dust: 18
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Frog Boots:
-        Name: '&aFrog Suit Boots'
+        Name: '&aZabie buty'
         Mystery Dust: 7
         Rarity: Common
         CanBeFound: true
         Purchasable: true
         Lore: ''
   Ninja:
-    Name: '&6Ninja Suit'
+    Name: '&6Ninja'
     Enabled: true
     Cooldown: 0
     Enabled-Ability: true
     Lore:
     - ''
-    - '&7Silent but deadly, skulk around'
-    - '&7your favourite lobby with this'
-    - '&7Ninja Suit.'
+    - '&7Cichy, lecz zabojczy skradaj sie'
+    - '&7w swoim ulubionym lobby jak prawdziwy'
+    - '&7Ninja.'
     - ''
-    - '&7Full Set Ability: Click to throw'
-    - '&7a Ninja Shuriken!'
+    - '&7Umienetnosc Pelnego Zestawu:'
+    - '&7Kliknij aby rzucic szurikenem!'
     Equipments:
       Ninja Helmet:
-        Name: '&6Ninja Suit Helmet'
+        Name: '&6Maska Ninja'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ninja Chestplate:
-        Name: '&5Ninja Suit Chestplate'
+        Name: '&5Napiersnik Ninja'
         Mystery Dust: 35
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ninja Leggings:
-        Name: '&9Ninja Suit Leggings'
+        Name: '&9Spodnie Ninja'
         Mystery Dust: 20
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ninja Boots:
-        Name: '&aNinja Suit Boots'
+        Name: '&aButy Ninja'
         Mystery Dust: 10
         Rarity: Common
         CanBeFound: true
         Purchasable: true
         Lore: ''
   Speedster:
-    Name: '&6Speedster Suit'
+    Name: '&6Biegacz'
     Enabled: true
     Enabled-Ability: true
     Lore:
     - ''
-    - '&7Nothing move faster than the'
-    - '&7speed of light... except you'
-    - '&7when you''re wearing this'
-    - '&7Speedster Suit!'
+    - '&7Nic nie jest szybsze od'
+    - '&7predkosci swistla... poza toba'
+    - '&7kiedy nosisz ten stroj'
+    - '&7Biegacza!'
     - ''
-    - '&7Full Set Ability: Sprint to run'
-    - '&7extremely fast.'
+    - '&7Umienetnosc Pelnego Zestawu:'
+    - '&7Super Predkosc.'
     Equipments:
       Speedster Helmet:
-        Name: '&6Speedster Suit Helmet'
+        Name: '&6Czapka Biegacza'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Speedster Chestplate:
-        Name: '&5Speedster Suit Chestplate'
+        Name: '&5Koszulka Biegacza'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Speedster Leggings:
-        Name: '&9Speedster Suit Leggings'
+        Name: '&9Spodnie Biegacza'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Speedster Boots:
-        Name: '&aSpeedster Suit Boots'
+        Name: '&aButy Biegacza'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
