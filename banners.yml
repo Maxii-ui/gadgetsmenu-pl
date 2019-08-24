@@ -1,0 +1,97 @@
+Banners:
+  Snow Bunny:
+    Name: '&5Sniezny Krolik'
+    Mystery Dust: 15
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Reindeer:
+    Name: '&5Renifer'
+    Mystery Dust: 20
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Holiday Tree:
+    Name: '&5Choinka'
+    Mystery Dust: 20
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Santa:
+    Name: '&5Mikolaj'
+    Mystery Dust: 25
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Holiday Wreath:
+    Name: '&5Ozdoba Swiateczna'
+    Mystery Dust: 28
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Heart:
+    Name: '&5Serce'
+    Mystery Dust: 30
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Guitar:
+    Name: '&5Gitara'
+    Mystery Dust: 25
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Dino:
+    Name: '&5Dinozaur'
+    Mystery Dust: 40
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Redpool:
+    Name: '&5Repool'
+    Mystery Dust: 42
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Pengu:
+    Name: '&5Pingwin'
+    Mystery Dust: 50
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Pug:
+    Name: '&5Pug Banner'
+    Mystery Dust: 48
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
+  Skull King:
+    Name: '&6Skull King Banner'
+    Mystery Dust: 65
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore: ''
