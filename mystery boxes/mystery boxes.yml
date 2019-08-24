@@ -4,7 +4,7 @@ Mystery-Boxes:
   Enabled: true
   Loots-Can-Be-Found:
     Hats: true
-    Animated Hats: true
+    Animated Hats: true   
     Particles: true
     Suits: true
     Gadgets: true
@@ -35,7 +35,7 @@ Mystery-Boxes:
         - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
         - '             &b&lMystery Box'
         - ''
-        - '  &7Znalazlez Lup!'
+        - '  &7Znalazles Lup!'
         - '  &71x &a&lPospolity {LOOT}'
         - ''
         - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
@@ -49,7 +49,7 @@ Mystery-Boxes:
         - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
         - '             &b&lMystery Box'
         - ''
-        - '  &7Znalazlez Lup!'
+        - '  &7Znalazles Lup!'
         - '  &71x &9&lRzadkie {LOOT}'
         - ''
         - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
@@ -63,7 +63,7 @@ Mystery-Boxes:
         - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
         - '             &b&lMystery Box'
         - ''
-        - '  &7Znalazlez Lup!'
+        - '  &7Znalazles Lup!'
         - '  &71x &5&lEpickie {LOOT}'
         - ''
         - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
@@ -77,7 +77,7 @@ Mystery-Boxes:
         - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
         - '             &b&lMystery Box'
         - ''
-        - '  &7Znalazlez Lup!'
+        - '  &7Znalazles Lup!'
         - '  &71x &6&lLegendarne {LOOT}'
         - ''
         - ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
