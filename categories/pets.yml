@@ -950,7 +950,7 @@ Pets:
         - '&7Typ: &9Sheep: Silver'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Silver Sheep:
+      Baby Silver Sheep:
         Name: '&9Sheep: Silver (Dziecko)'
         Material: LIGHT_GRAY_WOOL
         Mystery Dust: 30
@@ -976,7 +976,7 @@ Pets:
         - '&7Typ: &9Sheep: White'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko White Sheep:
+      Baby White Sheep:
         Name: '&9Sheep: White (Dziecko)'
         Material: WHITE_WOOL
         Mystery Dust: 30
@@ -1002,7 +1002,7 @@ Pets:
         - '&7Typ: &9Sheep: Yellow'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Yellow Sheep:
+      Baby Yellow Sheep:
         Name: '&5Sheep: Yellow (Dziecko)'
         Material: YELLOW_WOOL
         Mystery Dust: 55
@@ -1036,7 +1036,7 @@ Pets:
         - '&7Typ: &9Horse: Black'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Black Horse:
+      Baby Black Horse:
         Name: '&6Horse: Black (Dziecko)'
         Material: CHARCOAL
         Mystery Dust: 60
@@ -1062,7 +1062,7 @@ Pets:
         - '&7Typ: &9Horse: Brown'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Brown Horse:
+      Baby Brown Horse:
         Name: '&9Horse: Brown (Dziecko)'
         Material: COCOA_BEANS
         Mystery Dust: 30
@@ -1088,7 +1088,7 @@ Pets:
         - '&7Typ: &9Horse: Chestnut'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Chestnut Horse:
+      Baby Chestnut Horse:
         Name: '&5Horse: Chestnut (Dziecko)'
         Material: PUMPKIN_SEEDS
         Mystery Dust: 55
@@ -1114,7 +1114,7 @@ Pets:
         - '&7Typ: &9Horse: Creamy'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Creamy Horse:
+      Baby Creamy Horse:
         Name: '&5Horse: Creamy (Dziecko)'
         Material: SUGAR
         Mystery Dust: 55
@@ -1140,7 +1140,7 @@ Pets:
         - '&7Typ: &9Horse: Dark Brown'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Dark Brown Horse:
+      Baby Dark Brown Horse:
         Name: '&5Horse: Dark Brown (Dziecko)'
         Material: DARK_OAK_PLANKS
         Mystery Dust: 55
@@ -1166,7 +1166,7 @@ Pets:
         - '&7Typ: &9Horse: Gray'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Gray Horse:
+      Baby Gray Horse:
         Name: '&5Horse: Gray (Dziecko)'
         Material: GRAY_DYE
         Mystery Dust: 55
@@ -1192,7 +1192,7 @@ Pets:
         - '&7Typ: &9Horse: White'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko White Horse:
+      Baby White Horse:
         Name: '&6Horse: White (Dziecko)'
         Material: DIORITE
         Mystery Dust: 60
@@ -1218,7 +1218,7 @@ Pets:
         - '&7Typ: &9Donkey'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Donkey:
+      Baby Donkey:
         Name: '&5Donkey (Dziecko)'
         Material: CARROT
         Mystery Dust: 40
@@ -1244,7 +1244,7 @@ Pets:
         - '&7Typ: &9Mule'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Mule:
+      Baby Mule:
         Name: '&5Mule (Dziecko)'
         Material: MUTTON
         Mystery Dust: 35
@@ -1270,7 +1270,7 @@ Pets:
         - '&7Typ: &9Skeleton Horse'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Skeleton Horse:
+      Baby Skeleton Horse:
         Name: '&6Skeleton Horse (Dziecko)'
         Material: BONE_MEAL
         Mystery Dust: 85
@@ -1296,7 +1296,7 @@ Pets:
         - '&7Typ: &9Undead Horse'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Undead Horse:
+      Baby Undead Horse:
         Name: '&6Undead Horse (Dziecko)'
         Material: DEAD_BUSH
         Mystery Dust: 85
@@ -1330,7 +1330,7 @@ Pets:
         - '&7Typ: &9Villager: Blacksmith'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Blacksmith Villager:
+      Baby Blacksmith Villager:
         Name: '&5Villager: Blacksmith (Dziecko)'
         Material: IRON_INGOT
         Mystery Dust: 55
@@ -1344,7 +1344,7 @@ Pets:
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
       Butcher Villager:
-        Name: '&9Villager: Butcher'
+        Name: '&9Villager: Rzeznik'
         Material: IRON_AXE
         Mystery Dust: 22
         Rarity: Rare
@@ -1353,11 +1353,11 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Typ: &9Villager: Butcher'
+        - '&7Typ: &9Villager: Rzeznik'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Butcher Villager:
-        Name: '&5Villager: Butcher (Dziecko)'
+      Baby Butcher Villager:
+        Name: '&5Villager: Rzeznik (Dziecko)'
         Material: WOODEN_AXE
         Mystery Dust: 55
         Rarity: Epic
@@ -1366,7 +1366,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Typ: &9Villager: Butcher (Dziecko)'
+        - '&7Typ: &9Villager: Rzeznik (Dziecko)'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
       Farmer Villager:
@@ -1382,7 +1382,7 @@ Pets:
         - '&7Typ: &9Villager: Farmer'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Farmer Villager:
+      Baby Farmer Villager:
         Name: '&5Villager: Farmer (Dziecko)'
         Material: WOODEN_HOE
         Mystery Dust: 55
@@ -1396,7 +1396,7 @@ Pets:
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
       Librarian Villager:
-        Name: '&9Villager: Librarian'
+        Name: '&9Villager: Bibliotekarz'
         Material: BOOKSHELF
         Mystery Dust: 22
         Rarity: Rare
@@ -1405,11 +1405,11 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Typ: &9Villager: Librarian'
+        - '&7Typ: &9Villager: Bibliotekarz'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
-      Dziecko Librarian Villager:
-        Name: '&5Villager: Librarian (Dziecko)'
+      Baby Librarian Villager:
+        Name: '&5Villager: Bibliotekarz (Dziecko)'
         Material: BOOK
         Mystery Dust: 55
         Rarity: Epic
@@ -1418,7 +1418,7 @@ Pets:
         Purchasable: true
         Move-Speed: 0.7
         Lore:
-        - '&7Typ: &9Villager: Librarian (Dziecko)'
+        - '&7Typ: &9Villager: Bibliotekarz (Dziecko)'
         - ''
         - '&7Kliknij, aby przywołać tego zwierzaka.'
       Priest Villager:
