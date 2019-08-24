@@ -1,6 +1,6 @@
 Hats:
   Hamburger:
-    Name: '&aHamburger Hat'
+    Name: '&aHamburger'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -8,7 +8,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Chocolate Donut:
-    Name: '&aChocolate Donut Hat'
+    Name: '&aCzekoladowy Donut'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -16,7 +16,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Sandwich:
-    Name: '&aSandwich Hat'
+    Name: '&aKanapka'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -24,7 +24,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Black Chocolate Bar:
-    Name: '&aBlack Chocolate Bar Hat'
+    Name: '&aTabliczka Gorzkiej Czekolady'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -32,7 +32,7 @@ Hats:
     Purchasable: true
     Lore: ''
   White Chocolate Bar:
-    Name: '&aWhite Chocolate Bar Hat'
+    Name: '&aTabliczka Bialej Czekolady'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -40,7 +40,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Candy Cane:
-    Name: '&9Candy Cane Hat'
+    Name: '&9aLaska Cukrowa'
     Mystery Dust: 25
     Rarity: Rare
     Enabled: true
@@ -48,7 +48,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Computer:
-    Name: '&aComputer Hat'
+    Name: '&aKomputer'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -56,7 +56,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Gold Steve:
-    Name: '&9Gold Steve Hat'
+    Name: '&9Zloty Steve'
     Mystery Dust: 28
     Rarity: Rare
     Enabled: true
@@ -64,7 +64,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Diamond Steve:
-    Name: '&5Diamond Steve Hat'
+    Name: '&5Diamentowy Steve'
     Mystery Dust: 38
     Rarity: Epic
     Enabled: true
@@ -72,7 +72,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Emerald Steve:
-    Name: '&6Emerald Steve Hat'
+    Name: '&6Szmaragdowy Steve'
     Mystery Dust: 48
     Rarity: Legendary
     Enabled: true
@@ -80,7 +80,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Scared:
-    Name: '&aScared Hat'
+    Name: '&aPrzestraszony'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -88,7 +88,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Angel:
-    Name: '&aAngel Hat'
+    Name: '&aAniol'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -96,7 +96,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Embarrassed:
-    Name: '&aEmbarrassed Hat'
+    Name: '&aZawstydzony'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -104,7 +104,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Sad:
-    Name: '&aSad Hat'
+    Name: '&aSmutny'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -112,7 +112,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Cool:
-    Name: '&aCool Hat'
+    Name: '&aFajny'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -120,7 +120,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Surprised:
-    Name: '&aSurprised Hat'
+    Name: '&aZaskoczony'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -128,7 +128,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Dead:
-    Name: '&aDead Hat'
+    Name: '&aMartwy'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -136,7 +136,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Cry:
-    Name: '&aCry Hat'
+    Name: '&aPlaczacy'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -144,7 +144,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Grin:
-    Name: '&aGrin Hat'
+    Name: '&aUsmiechniety'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -152,7 +152,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Wink:
-    Name: '&aWink Hat'
+    Name: '&aPuszczajacy Oczko'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -160,7 +160,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Derp:
-    Name: '&aDerp Hat'
+    Name: '&aDerp'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -168,7 +168,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Mustache:
-    Name: '&aMustache Hat'
+    Name: '&aWas'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -176,7 +176,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Big Smile:
-    Name: '&aBig Smile Hat'
+    Name: '&aSzeroki Usmiech'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -184,7 +184,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Smile:
-    Name: '&aSmile Hat'
+    Name: '&aSzczesliwy'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -192,7 +192,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Netherlands:
-    Name: '&aNetherlands Hat'
+    Name: '&aHolandia'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -200,7 +200,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Norway:
-    Name: '&aNorway Hat'
+    Name: '&aNorwegia'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -208,7 +208,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Sweden:
-    Name: '&aSweden Hat'
+    Name: '&aSzwecja'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -216,7 +216,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Chile:
-    Name: '&aChile Hat'
+    Name: '&aChile'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -224,7 +224,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Monaco:
-    Name: '&aMonaco Hat'
+    Name: '&aMonako'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -232,7 +232,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Canada:
-    Name: '&aCanada Hat'
+    Name: '&aKanada'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -240,7 +240,7 @@ Hats:
     Purchasable: true
     Lore: ''
   United States:
-    Name: '&aUnited States Hat'
+    Name: '&aStany Zjednoczone'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -248,7 +248,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Italy:
-    Name: '&aItaly Hat'
+    Name: '&aWlochy'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -256,7 +256,7 @@ Hats:
     Purchasable: true
     Lore: ''
   England:
-    Name: '&aEngland Hat'
+    Name: '&aAnglia'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -264,7 +264,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Germany:
-    Name: '&aGermany Hat'
+    Name: '&aNiemcy'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -272,7 +272,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Singapore:
-    Name: '&aSingapore Hat'
+    Name: '&aSingapur'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -280,7 +280,7 @@ Hats:
     Purchasable: true
     Lore: ''
   France:
-    Name: '&aFrance Hat'
+    Name: '&aFrancja'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -288,7 +288,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Spain:
-    Name: '&aSpain Hat'
+    Name: '&aHiszpania'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -296,7 +296,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Australia:
-    Name: '&aAustralia Hat'
+    Name: '&aAustralia'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -304,7 +304,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-A:
-    Name: '&a''''A'''' Hat'
+    Name: '&aA'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -312,7 +312,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-B:
-    Name: '&a''''B'''' Hat'
+    Name: '&aB'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -320,7 +320,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-C:
-    Name: '&a''''C'''' Hat'
+    Name: '&aC Hat'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -328,7 +328,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-D:
-    Name: '&a''''D'''' Hat'
+    Name: '&aD'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -336,7 +336,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-E:
-    Name: '&a''''E'''' Hat'
+    Name: '&aE'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -344,7 +344,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-F:
-    Name: '&a''''F'''' Hat'
+    Name: '&aF'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -352,7 +352,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-G:
-    Name: '&a''''G'''' Hat'
+    Name: '&aG'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -360,7 +360,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-H:
-    Name: '&a''''H'''' Hat'
+    Name: '&aH'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -368,7 +368,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-I:
-    Name: '&a''''I'''' Hat'
+    Name: '&aI'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -376,7 +376,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-J:
-    Name: '&a''''J'''' Hat'
+    Name: '&aJ'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -384,7 +384,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-K:
-    Name: '&a''''K'''' Hat'
+    Name: '&aK'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -392,7 +392,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-L:
-    Name: '&a''''L'''' Hat'
+    Name: '&aL'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -400,7 +400,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-M:
-    Name: '&a''''M'''' Hat'
+    Name: '&aM'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -408,7 +408,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-N:
-    Name: '&a''''N'''' Hat'
+    Name: '&aN'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -416,7 +416,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-O:
-    Name: '&a''''O'''' Hat'
+    Name: '&aO'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -424,7 +424,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-P:
-    Name: '&a''''P'''' Hat'
+    Name: '&aP'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -432,7 +432,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-Q:
-    Name: '&a''''Q'''' Hat'
+    Name: '&aQ'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -440,7 +440,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-R:
-    Name: '&a''''R'''' Hat'
+    Name: '&aR'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -448,7 +448,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-S:
-    Name: '&a''''S'''' Hat'
+    Name: '&aS'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -456,7 +456,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-T:
-    Name: '&a''''T'''' Hat'
+    Name: '&aT'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -464,7 +464,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-U:
-    Name: '&a''''U'''' Hat'
+    Name: '&aU'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -472,7 +472,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-V:
-    Name: '&a''''V'''' Hat'
+    Name: '&aV'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -480,7 +480,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-W:
-    Name: '&a''''W'''' Hat'
+    Name: '&aW'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -488,7 +488,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-X:
-    Name: '&a''''X'''' Hat'
+    Name: '&aX'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -496,7 +496,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-Y:
-    Name: '&a''''Y'''' Hat'
+    Name: '&aY'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -504,7 +504,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Letter-Z:
-    Name: '&a''''Z'''' Hat'
+    Name: '&aZ'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -512,7 +512,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Number-0:
-    Name: '&a''''0'''' Hat'
+    Name: '&a0'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -520,7 +520,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Number-1:
-    Name: '&a''''1'''' Hat'
+    Name: '&a1'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -528,7 +528,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Number-2:
-    Name: '&a''''2'''' Hat'
+    Name: '&a2'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -536,7 +536,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Number-3:
-    Name: '&a''''3'''' Hat'
+    Name: '&a3'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -544,7 +544,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Number-4:
-    Name: '&a''''4'''' Hat'
+    Name: '&a4'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -552,7 +552,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Number-5:
-    Name: '&a''''5'''' Hat'
+    Name: '&a5'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -560,7 +560,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Number-6:
-    Name: '&a''''6'''' Hat'
+    Name: '&a6'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -568,7 +568,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Number-7:
-    Name: '&a''''7'''' Hat'
+    Name: '&a7'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -576,7 +576,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Number-8:
-    Name: '&a''''8'''' Hat'
+    Name: '&a8'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -584,7 +584,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Number-9:
-    Name: '&a''''9'''' Hat'
+    Name: '&9'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -592,7 +592,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Symbol-Plus:
-    Name: '&a''''+'''' Hat'
+    Name: '&a+'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -600,7 +600,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Symbol-Pound-Key:
-    Name: '&a''''#'''' Hat'
+    Name: '&a#'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -608,7 +608,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Symbol-Question:
-    Name: '&a''''?'''' Hat'
+    Name: '&a?'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -616,7 +616,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Symbol-Exclamation:
-    Name: '&a''''!'''' Hat'
+    Name: '&a!'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -624,7 +624,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Blaze:
-    Name: '&aBlaze Hat'
+    Name: '&aPlomyk'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -632,7 +632,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Enderman:
-    Name: '&aEnderman Hat'
+    Name: '&aEnderman'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -640,7 +640,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Slime:
-    Name: '&aSlime Hat'
+    Name: '&aSzlam'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -648,7 +648,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Magma Cube:
-    Name: '&aMagma Cube Hat'
+    Name: '&aKostka Magmy'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -656,7 +656,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Ocelot:
-    Name: '&aOcelot Hat'
+    Name: '&aOcelot'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -664,7 +664,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Ender Dragon:
-    Name: '&9Ender Dragon Hat'
+    Name: '&9Smok Kresu'
     Mystery Dust: 18
     Rarity: Rare
     Enabled: true
@@ -672,7 +672,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Cave Spider:
-    Name: '&aCave Spider Hat'
+    Name: '&aPajak Jaskiniowy'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -680,7 +680,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Ghast:
-    Name: '&9Ghast Hat'
+    Name: '&9Ghast'
     Mystery Dust: 25
     Rarity: Rare
     Enabled: true
@@ -688,7 +688,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Pig Zombie:
-    Name: '&9Pig Zombie Hat'
+    Name: '&9Zombie Pigman'
     Mystery Dust: 18
     Rarity: Rare
     Enabled: true
@@ -696,7 +696,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Chicken:
-    Name: '&aChicken Hat'
+    Name: '&aKurczak'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -704,7 +704,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Pig:
-    Name: '&aPig Hat'
+    Name: '&aSwinia'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -712,7 +712,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Cow:
-    Name: '&aCow Hat'
+    Name: '&aKrowa'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -720,7 +720,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Mushroom Cow:
-    Name: '&aMushroom Cow Hat'
+    Name: '&aGrzybowa Krowa'
     Mystery Dust: 15
     Rarity: Common
     Enabled: true
@@ -728,7 +728,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Squid:
-    Name: '&9Squid Hat'
+    Name: '&9Kalamarnica'
     Mystery Dust: 20
     Rarity: Rare
     Enabled: true
@@ -736,7 +736,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Iron Golem:
-    Name: '&9Iron Golem Hat'
+    Name: '&9Zelazny Golem'
     Mystery Dust: 25
     Rarity: Rare
     Enabled: true
@@ -744,7 +744,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Horse:
-    Name: '&9Horse Hat'
+    Name: '&9Kon'
     Mystery Dust: 15
     Rarity: Rare
     Enabled: true
@@ -752,7 +752,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Herobine:
-    Name: '&9Herobine Hat'
+    Name: '&9Herobine'
     Mystery Dust: 25
     Rarity: Rare
     Enabled: true
@@ -760,7 +760,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Bird:
-    Name: '&aBird Hat'
+    Name: '&aPtak'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -768,7 +768,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Poke Ball:
-    Name: '&aPoke Ball Hat'
+    Name: '&aPoke Ball'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -776,7 +776,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Mario:
-    Name: '&aMario Hat'
+    Name: '&aMario'
     Mystery Dust: 8
     Rarity: Common
     Enabled: true
@@ -784,7 +784,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Freddy Fazbear:
-    Name: '&aFreddy Fazbear Hat'
+    Name: '&aFreddy Fazbear'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -792,7 +792,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Bonnie:
-    Name: '&aBonnie Hat'
+    Name: '&aBonnie'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -800,7 +800,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Jake:
-    Name: '&aJake Hat'
+    Name: '&aJake'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -808,7 +808,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Doge:
-    Name: '&aDoge Hat'
+    Name: '&aPiesel'
     Mystery Dust: 9
     Rarity: Common
     Enabled: true
@@ -816,7 +816,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Polar Bear:
-    Name: '&aPolar Bear Hat'
+    Name: '&aNiedzwiedz Polarny'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -824,7 +824,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Rabbit:
-    Name: '&aRabbit Hat'
+    Name: '&aKrolik'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -832,7 +832,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Koala:
-    Name: '&aKoala Hat'
+    Name: '&aKoala'
     Mystery Dust: 9
     Rarity: Common
     Enabled: true
@@ -840,7 +840,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Bee:
-    Name: '&aBee Hat'
+    Name: '&aPszczola'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -848,7 +848,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Clownfish:
-    Name: '&9Clownfish Hat'
+    Name: '&9Blazenek'
     Mystery Dust: 7
     Rarity: Rare
     Enabled: true
@@ -856,7 +856,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Ferret:
-    Name: '&aFerret Hat'
+    Name: '&aFretka'
     Mystery Dust: 9
     Rarity: Common
     Enabled: true
@@ -864,7 +864,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Walrus:
-    Name: '&aWalrus Hat'
+    Name: '&aMors'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -872,7 +872,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Tiger:
-    Name: '&aTiger Hat'
+    Name: '&aTygrys'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -880,7 +880,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Monkey:
-    Name: '&aMonkey Hat'
+    Name: '&aMalpa'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -888,7 +888,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Cactus:
-    Name: '&aCactus Hat'
+    Name: '&aKaktus'
     Mystery Dust: 7
     Rarity: Common
     Enabled: true
@@ -896,7 +896,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Duck:
-    Name: '&9Duck Hat'
+    Name: '&9Kaczka'
     Mystery Dust: 15
     Rarity: Rare
     Enabled: true
@@ -904,7 +904,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Earth:
-    Name: '&aEarth Hat'
+    Name: '&aZiemia'
     Mystery Dust: 9
     Rarity: Common
     Enabled: true
@@ -912,7 +912,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Beach Ball:
-    Name: '&aBeach Ball Hat'
+    Name: '&aPilka Plazowa'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -920,7 +920,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Snowglobe:
-    Name: '&aSnowglobe Hat'
+    Name: '&aSniezka'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -928,7 +928,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Toaster:
-    Name: '&aToaster Hat'
+    Name: '&aToster'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -936,7 +936,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Cheese:
-    Name: '&9Cheese Hat'
+    Name: '&9Ser'
     Mystery Dust: 15
     Rarity: Rare
     Enabled: true
@@ -944,7 +944,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Mars:
-    Name: '&9Mars Hat'
+    Name: '&9Mars'
     Mystery Dust: 15
     Rarity: Rare
     Enabled: true
@@ -952,7 +952,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Penguin:
-    Name: '&aPenguin Hat'
+    Name: '&aPingwin'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -960,7 +960,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Elephant:
-    Name: '&aElephant Hat'
+    Name: '&aSlon'
     Mystery Dust: 12
     Rarity: Common
     Enabled: true
@@ -968,7 +968,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Astronaut:
-    Name: '&9Astronaut Hat'
+    Name: '&9Astronauta'
     Mystery Dust: 15
     Rarity: Rare
     Enabled: true
@@ -976,7 +976,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Otter:
-    Name: '&9Otter Hat'
+    Name: '&9Wydra'
     Mystery Dust: 20
     Rarity: Rare
     Enabled: true
@@ -984,7 +984,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Mummy:
-    Name: '&9Mummy Hat'
+    Name: '&9Mumia'
     Mystery Dust: 20
     Rarity: Rare
     Enabled: true
@@ -992,7 +992,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Orc:
-    Name: '&9Orc Hat'
+    Name: '&9Orka'
     Mystery Dust: 18
     Rarity: Rare
     Enabled: true
@@ -1000,7 +1000,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Minotaur:
-    Name: '&9Minotaur Hat'
+    Name: '&9Minotaur'
     Mystery Dust: 18
     Rarity: Rare
     Enabled: true
@@ -1008,7 +1008,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Demon Knight:
-    Name: '&9Demon Knight Hat'
+    Name: '&9Demoniczny Rycerz'
     Mystery Dust: 21
     Rarity: Rare
     Enabled: true
@@ -1016,7 +1016,7 @@ Hats:
     Purchasable: true
     Lore: ''
   White Wizard:
-    Name: '&9White Wizard Hat'
+    Name: '&9Bialy Czarodziej'
     Mystery Dust: 15
     Rarity: Rare
     Enabled: true
@@ -1024,7 +1024,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Miner:
-    Name: '&9Miner Hat'
+    Name: '&9Gornik'
     Mystery Dust: 15
     Rarity: Rare
     Enabled: true
@@ -1032,7 +1032,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Monk:
-    Name: '&9Monk Hat'
+    Name: '&9Mnich'
     Mystery Dust: 15
     Rarity: Rare
     Enabled: true
@@ -1040,7 +1040,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Wood Elf:
-    Name: '&9Wood Elf Hat'
+    Name: '&9Lesny Elf'
     Mystery Dust: 15
     Rarity: Rare
     Enabled: true
@@ -1048,7 +1048,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Pirate:
-    Name: '&9Pirate Hat'
+    Name: '&9Pirat'
     Mystery Dust: 18
     Rarity: Rare
     Enabled: true
@@ -1056,7 +1056,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Odin:
-    Name: '&9Odin Hat'
+    Name: '&9Odyn'
     Mystery Dust: 18
     Rarity: Rare
     Enabled: true
@@ -1064,7 +1064,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Ghost:
-    Name: '&9Ghost Hat'
+    Name: '&9Duch'
     Mystery Dust: 20
     Rarity: Rare
     Enabled: true
@@ -1072,7 +1072,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Scarecrow:
-    Name: '&9Scarecrow Hat'
+    Name: '&9Strach Na Wroble'
     Mystery Dust: 20
     Rarity: Rare
     Enabled: true
@@ -1080,7 +1080,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Fox:
-    Name: '&9Fox Hat'
+    Name: '&9Lis'
     Mystery Dust: 18
     Rarity: Rare
     Enabled: true
@@ -1088,7 +1088,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Pug:
-    Name: '&9Pug Hat'
+    Name: '&9Mops'
     Mystery Dust: 18
     Rarity: Rare
     Enabled: true
@@ -1096,7 +1096,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Owl:
-    Name: '&9Owl Hat'
+    Name: '&9Sowa'
     Mystery Dust: 20
     Rarity: Rare
     Enabled: true
@@ -1104,7 +1104,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Panda:
-    Name: '&9Panda Hat'
+    Name: '&9Panda'
     Mystery Dust: 20
     Rarity: Rare
     Enabled: true
@@ -1112,7 +1112,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Sloth:
-    Name: '&9Sloth Hat'
+    Name: '&9Leniwiec'
     Mystery Dust: 25
     Rarity: Rare
     Enabled: true
@@ -1120,7 +1120,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Gorilla:
-    Name: '&9Gorilla Hat'
+    Name: '&9Goryl'
     Mystery Dust: 25
     Rarity: Rare
     Enabled: true
@@ -1128,7 +1128,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Snowman:
-    Name: '&5Snowman Hat'
+    Name: '&5Balwan'
     Mystery Dust: 43
     Rarity: Epic
     Enabled: true
@@ -1136,7 +1136,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Reindeer:
-    Name: '&5Reindeer Hat'
+    Name: '&5Renifer'
     Mystery Dust: 43
     Rarity: Epic
     Enabled: true
@@ -1144,7 +1144,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Shulker:
-    Name: '&5Shulker Hat'
+    Name: '&5Shulker'
     Mystery Dust: 45
     Rarity: Epic
     Enabled: true
@@ -1152,7 +1152,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Turtle:
-    Name: '&5Turtle Hat'
+    Name: '&5Zolw'
     Mystery Dust: 45
     Rarity: Epic
     Enabled: true
@@ -1160,7 +1160,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Solved Rubiks Cube:
-    Name: '&5Solved Rubik''s Cube Hat'
+    Name: '&5Ulozona Kostka Rubika'
     Mystery Dust: 45
     Rarity: Epic
     Enabled: true
@@ -1168,7 +1168,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Scrambled Rubiks Cube:
-    Name: '&6Scrambled Rubik''s Cube Hat'
+    Name: '&6Pomieszana Kostka Rubika'
     Mystery Dust: 55
     Rarity: Legendary
     Enabled: true
@@ -1176,7 +1176,7 @@ Hats:
     Purchasable: true
     Lore: ''
   Rainbow Glitch:
-    Name: '&9Rainbow Glitch Hat'
+    Name: '&9Tecza'
     Mystery Dust: 18
     Rarity: Rare
     Enabled: true
