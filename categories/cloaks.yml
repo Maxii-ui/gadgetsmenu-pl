@@ -2,7 +2,7 @@
 # Git: https://github.com/eastcore/gadgetsmenu-pl
 Cloaks:
   Superhero:
-    Name: '&6Superhero Cloak'
+    Name: '&6Peleryna SuperBohatera'
     Material: RED_DYE
     Mystery Dust: 65
     Rarity: Legendary
@@ -10,11 +10,11 @@ Cloaks:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Straight from the comic'
-    - '&7books comes that signature'
-    - '&7red cloak!'
+    - '&7Prosto z komiksu i'
+    - '&7ksiazek. Oto symboliczna'
+    - '&7czerwona peleryna!'
   Mystical:
-    Name: '&6Mystical Cloak'
+    Name: '&6Mistyczna Peleryna'
     Material: BOOK
     Mystery Dust: 85
     Rarity: Legendary
@@ -22,12 +22,12 @@ Cloaks:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Shrouded in mystery, this'
-    - '&7cloak is the center of'
-    - '&7numerous legends concerning'
-    - '&7its powers.'
+    - '&7Okryta tajemnica, ta'
+    - '&7peleryna jest centrum'
+    - '&7licznych legend mowiacych'
+    - '&7o jej mocach.'
   Firewings:
-    Name: '&6Firewings Cloak'
+    Name: '&6Ogniste Skrzydla'
     Material: BLAZE_POWDER
     Mystery Dust: 72
     Rarity: Legendary
@@ -35,11 +35,11 @@ Cloaks:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Rise from the ashes like a'
-    - '&7phoenix in this display of'
-    - '&7flames!'
+    - '&7Powstan z popiolu jak'
+    - '&7Feniks oswietlony w'
+    - '&7plomieniach!'
   Vampire Wings:
-    Name: '&6Vampire Wings Cloak'
+    Name: '&6Wampirze Skrzydla'
     Material: REDSTONE
     Mystery Dust: 78
     Rarity: Legendary
@@ -47,12 +47,12 @@ Cloaks:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Giant black and red wings'
-    - '&7extend from your back to'
-    - '&7form menacing vampire'
-    - '&7wings!'
+    - '&7Ogrmone czarno-czerwone skrzydla'
+    - '&7wyrastaja z twoich plecow aby'
+    - '&7utworzyc przerazajace wampirze'
+    - '&7skrzydla!'
   Frosty:
-    Name: '&6Frosty Cloak'
+    Name: '&6Mrozna Peleryna'
     Material: SNOWBALL
     Mystery Dust: 78
     Rarity: Legendary
@@ -60,10 +60,9 @@ Cloaks:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7The cold never bothered me'
-    - '&7anyway!'
+    - '&7Zimno i tak mi nie przeszkadza.'
   Icewings:
-    Name: '&6Icewings Cloak'
+    Name: '&6Lodowe Skrzydla'
     Material: ICE
     Mystery Dust: 72
     Rarity: Legendary
@@ -71,10 +70,10 @@ Cloaks:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Is it just me or is it cold'
-    - '&7here?'
+    - '&7Czy to tylko ja czy tu jest'
+    - '&7naprawde zimno?'
   Shaman:
-    Name: '&6Shaman Cloak'
+    Name: '&6Peleryna Szamana'
     Material: BONE
     Mystery Dust: 85
     Rarity: Legendary
@@ -82,10 +81,10 @@ Cloaks:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Be surrounded by a tornado,'
-    - '&7similar to Shaman''s Tornado'
+    - '&7Badz otoczony przez tornado,'
+    - '&7i zostan szamanem'
   Firerings:
-    Name: '&6Firerings Cloak'
+    Name: '&6Ogniste Obrecze'
     Material: BLAZE_ROD
     Mystery Dust: 50
     Rarity: Legendary
@@ -93,11 +92,11 @@ Cloaks:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Be surrounded by flames, '
-    - '&7maybe the way you walk is'
-    - '&7burnt to ashes.'
+    - '&7Badz otoczony przez plomienie, '
+    - '&7mozliwe, ze droga ktora idziesz'
+    - '&7jest spalona do popiolu.'
   Scanner:
-    Name: '&6Scanner Cloak'
+    Name: '&6Skaner'
     Material: BEACON
     Mystery Dust: 65
     Rarity: Legendary
