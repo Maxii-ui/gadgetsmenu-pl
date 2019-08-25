@@ -1,7 +1,7 @@
 Suits:
   Frog:
     Name: '&6Zaba'
-    Enabled: true
+    Enabled: false
     Enabled-Ability: true
     Lore:
     - ''
@@ -125,90 +125,89 @@ Suits:
         Purchasable: true
         Lore: ''
   Ghostly:
-    Name: '&6Ghostly Skeleton Suit'
+    Name: '&6Upiorny Szkielet'
     Enabled: true
     Enabled-Ability: true
     Lore:
     - ''
-    - '&7Are you feeling spooky? Then'
-    - '&7equip this spooky scary Ghostly'
-    - '&7Skeleton Suit!'
+    - '&7Lubisz straszyc? Jesli tak to'
+    - '&7zaloz ten stroj upiornego szkieleta'
+    - '&7i postrasz troche graczy!'
     - ''
-    - '&7Full Set Ability: Makes the'
-    - '&7wearer invisible under the suit!'
+    - '&7Umiejetnosc Pelnego Zestawu:'
+    - '&7Sprawia ze stajesz sie niewidzialny!'
     Equipments:
       Ghostly Helmet:
-        Name: '&6Ghostly Skeleton Suit Helmet'
+        Name: '&6Glowa Upiornego Szkieleta'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ghostly Chestplate:
-        Name: '&5Ghostly Skeleton Suit Chestplate'
+        Name: '&5Napiersnik Upiornego Szkieleta'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ghostly Leggings:
-        Name: '&9Ghostly Skeleton Suit Leggings'
+        Name: '&9Spodnie Upiornego Szkieleta'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Ghostly Boots:
-        Name: '&aGhostly Skeleton Suit Boots'
+        Name: '&aButy Upiornego Szkieleta'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
         Purchasable: true
         Lore: ''
   Disco:
-    Name: '&6Disco Suit'
+    Name: '&6Teczowa Zbroja'
     Enabled: true
     Enabled-Ability: true
     Lore:
     - ''
-    - '&7It was your Dad''s favourite'
-    - '&7dance movement - bring back'
-    - '&7boogle with this Disco Suit!'
+    - '&7Oryginalnie Oryginalna'
+    - '&7Prawdziwa "Disco Zbroja"'
     - ''
-    - '&7Full Set Ability: Changes colors'
-    - '&7when equipped!'
+    - '&7Umiejetnosc Pelnego Zestawu:'
+    - '&7Zmienia kolory kiedy zalozona!'
     Equipments:
       Disco Helmet:
-        Name: '&6Disco Suit Helmet'
+        Name: '&6Teczowy Helm'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Disco Chestplate:
-        Name: '&5Disco Suit Chestplate'
+        Name: '&5Teczowy Napiersnik'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Disco Leggings:
-        Name: '&9Disco Suit Leggings'
+        Name: '&9Teczowe Spodnie'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Disco Boots:
-        Name: '&aDisco Suit Boots'
+        Name: '&aTeczowe Buty'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
         Purchasable: true
         Lore: ''
   Mermaid:
-    Name: '&6Mermaid Suit'
-    Enabled: true
+    Name: '&6Stroj Syreny'
+    Enabled: false
     Enabled-Ability: true
     Lore:
     - ''
@@ -250,7 +249,7 @@ Suits:
         Lore: ''
   Spooderman:
     Name: '&6Spooderman Suit'
-    Enabled: true
+    Enabled: false
     Cooldown: 0
     Enabled-Ability: true
     Lore:
@@ -291,146 +290,144 @@ Suits:
         Purchasable: true
         Lore: ''
   Warrior:
-    Name: '&6Warrior Suit'
+    Name: '&6Stroj Wojownika'
     Enabled: true
     Cooldown: 0
     Enabled-Ability: true
     Lore:
     - ''
-    - '&7The Warrior''s way is one of'
-    - '&7honour, resilience, and'
-    - '&7butt-kicking special abilities!'
+    - '&7Droga Wojownika jest'
+    - '&7jedna z honorowych oraz zapewnia'
+    - '&7niszczace zdolnosci.'
     - ''
-    - '&7Full Set Ability: Left click and'
-    - '&7look down to Ground Slam. or'
-    - '&7look ahead to Seismic Wave.'
+    - '&7Umiejetnosc Pelnego Zestawu:'
+    - '&7Uderz aby wywolac uderzenie sejsmiczne!'
     Equipments:
       Warrior Helmet:
-        Name: '&6Warrior Suit Helmet'
+        Name: '&6Helm Wojownika'
         Mystery Dust: 75
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Warrior Chestplate:
-        Name: '&5Warrior Suit Chestplate'
+        Name: '&5Napiersnik Wojownika'
         Mystery Dust: 30
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Warrior Leggings:
-        Name: '&9Warrior Suit Leggings'
+        Name: '&9Spodnie Wojownika'
         Mystery Dust: 16
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Warrior Boots:
-        Name: '&aWarrior Suit Boots'
+        Name: '&aButy Wojownika'
         Mystery Dust: 6
         Rarity: Common
         CanBeFound: true
         Purchasable: true
         Lore: ''
   Necromancer:
-    Name: '&6Necromancer Suit'
+    Name: '&6Zniwiarz'
     Enabled: true
     Cooldown: 0
     Enabled-Ability: true
     Lore:
     - ''
-    - '&7Put the RAVE in graveyard and'
-    - '&7bring back the dead with this'
-    - '&7Necromancer Suit!'
+    - '&7Interesuja Cie potwory w Minecraft?'
+    - '&7Teraz mozesz je przywolac kiedy tylko'
+    - '&7Chcesz!'
     - ''
-    - '&7Full Set Ability: Click to raise'
-    - '&7the dead.'
+    - '&7Umiejetnosc Pelnego Zestawu:'
+    - '&7Zespawnuj Potwory.'
     Equipments:
       Necromancer Helmet:
-        Name: '&6Necromancer Suit Helmet'
+        Name: '&6Glowa Zniwiarza'
         Mystery Dust: 80
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Necromancer Chestplate:
-        Name: '&5Necromancer Suit Chestplate'
+        Name: '&5Szaty Zniwiarza'
         Mystery Dust: 35
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Necromancer Leggings:
-        Name: '&9Necromancer Suit Leggings'
+        Name: '&9Spodnie Zniwiarza'
         Mystery Dust: 20
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Necromancer Boots:
-        Name: '&aNecromancer Suit Boots'
+        Name: '&aButy Zniwiarza'
         Mystery Dust: 10
         Rarity: Common
         CanBeFound: true
         Purchasable: true
         Lore: ''
   Thor:
-    Name: '&6Thor Suit'
+    Name: '&6Thor'
     Enabled: true
     Cooldown: 0
     Enabled-Ability: true
     Lore:
     - ''
-    - '&7"I like this suit. ANOTHER!"'
-    - '&7Wield the power of the God of'
-    - '&7Thunder with this Thor Suit.'
+    - '&7Chciales kiedys moc przylowywac'
+    - '&7pioruny? Teraz mozesz dzieki temu'
+    - '&7stroju samego Thora!'
     - ''
-    - '&7Full Set Ability: Click to'
-    - '&7strike lightning.'
+    - '&7Umiejetnosc Pelnego Zestawu:'
+    - '&7Przywolanie Pioruna.'
     Equipments:
       Thor Helmet:
-        Name: '&6Thor Suit Helmet'
+        Name: '&6Helm Thora'
         Mystery Dust: 70
         Rarity: Legendary
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Thor Chestplate:
-        Name: '&5Thor Suit Chestplate'
+        Name: '&5Napiersnik Thora'
         Mystery Dust: 25
         Rarity: Epic
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Thor Leggings:
-        Name: '&9Thor Suit Leggings'
+        Name: '&9Spodnie Thora'
         Mystery Dust: 13
         Rarity: Rare
         CanBeFound: true
         Purchasable: true
         Lore: ''
       Thor Boots:
-        Name: '&aThor Suit Boots'
+        Name: '&aButy Thora'
         Mystery Dust: 5
         Rarity: Common
         CanBeFound: true
         Purchasable: true
         Lore: ''
   Baker:
-    Name: '&6Baker Suit'
+    Name: '&6Piekarz'
     Enabled: true
     Cooldown: 0
     Enabled-Ability: true
     Lore:
     - ''
-    - '&7What''s better than a cookie? A'
-    - '&7man who can bake a million'
-    - '&7cookies!'
+    - '&7Kochasz slodycze?'
+    - '&7Jesli tak, to na pewno'
+    - '&7pokochasz ten stroj!'
     - ''
-    - '&7Full Set Ability: Click to'
-    - '&7deliver baked goods around the'
-    - '&7lobby.'
+    - '&7Umiejetnosc Pelnego Zestawu:'
+    - '&7Rzucaj slodyczami na prawo i lewo.'
     Equipments:
       Baker Helmet:
         Name: '&6Baker Suit Helmet'
@@ -462,7 +459,7 @@ Suits:
         Lore: ''
   Bumblebee:
     Name: '&6Bumblebee Suit'
-    Enabled: true
+    Enabled: false
     Cooldown: 0
     Enabled-Ability: true
     Lore:
@@ -587,7 +584,7 @@ Suits:
         Lore: ''
   Vampire:
     Name: '&6Vampire Suit'
-    Enabled: true
+    Enabled: false
     Enabled-Ability: true
     Lore:
     - ''
