@@ -2,7 +2,7 @@
 # Git: https://github.com/eastcore/gadgetsmenu-pl
 Particles:
   Water Splash:
-    Name: '&aWater Splash Particle'
+    Name: '&aPluskajaca Woda'
     Material: NETHER_STAR
     Mystery Dust: 15
     Rarity: Common
@@ -10,11 +10,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Water'
-    - '&7Splash particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla pluskajaca'
+    - '&7wode wokol Ciebie'
   Drip Water:
-    Name: '&9Drip Water Particle'
+    Name: '&9Cieknaca Woda'
     Material: WATER_BUCKET
     Mystery Dust: 25
     Rarity: Rare
@@ -22,11 +21,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Drip'
-    - '&7Water particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla cieknaca'
+    - '&7wode wokol Ciebie'
   Drip Lava:
-    Name: '&9Drip Lava Particle'
+    Name: '&9Cieknaca Lawa'
     Material: LAVA_BUCKET
     Mystery Dust: 25
     Rarity: Rare
@@ -34,11 +32,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Drip'
-    - '&7Lava particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla cieknaca'
+    - '&7lawe wokol Ciebie'
   Crit:
-    Name: '&9Crit Particle'
+    Name: '&9Krytyczne Uderzenia'
     Material: STONE_SWORD
     Mystery Dust: 22
     Rarity: Rare
@@ -46,11 +43,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Crit'
-    - '&7particles around you'
-    - '&7in lobby.'
+    - '&7Wyswietla czasteczki'
+    - '&7krytycznych uderzen wokol Ciebie'
   Magic Crit:
-    Name: '&9Magic Crit Particle'
+    Name: '&9Magiczne Krytyczne Uderzenia'
     Material: SPLASH_POTION:8204
     Mystery Dust: 20
     Rarity: Rare
@@ -58,11 +54,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Magic'
-    - '&7Crit particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla czasteczki magicznych'
+    - '&7krytycznych uderzen wokol Ciebie'
   Spell:
-    Name: '&5Spell Particle'
+    Name: '&5Zaklecia'
     Material: ENDER_CHEST
     Mystery Dust: 30
     Rarity: Epic
@@ -70,11 +65,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Spell'
-    - '&7particles around you'
-    - '&7in lobby.'
+    - '&7Wyswietla czasteczki'
+    - '&7zaklec wokol Ciebie'
   Instant Spell:
-    Name: '&5Instant Spell Particle'
+    Name: '&5Natychmiastowe Zaklecia'
     Material: GHAST_TEAR
     Mystery Dust: 32
     Rarity: Epic
@@ -82,11 +76,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Instant'
-    - '&7Spell particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla czasteczki natychmiastowych'
+    - '&7zaklec wokol Ciebie'
   Mob Spell:
-    Name: '&5Mob Spell Particle'
+    Name: '&5Teczowe Zaklecia'
     Material: EXPERIENCE_BOTTLE
     Mystery Dust: 35
     Rarity: Epic
@@ -94,11 +87,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Mob'
-    - '&7Spell particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla czastkeczki'
+    - '&7teczowych zaklec wokol Ciebie'
   Witch Spell:
-    Name: '&6Witch Spell Particle'
+    Name: '&6Zaklecia Wiedzmy'
     Material: POTION:8260
     Mystery Dust: 40
     Rarity: Legendary
@@ -106,11 +98,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Witch'
-    - '&7Spell particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla czasteczki'
+    - '&7zaklec wiedzmy wokol Ciebie'
   Angry Villager:
-    Name: '&5Angry Villager Particle'
+    Name: '&5Zdenerwowany Wiesniak'
     Material: FIRE_CHARGE
     Mystery Dust: 32
     Rarity: Epic
@@ -118,11 +109,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Angry'
-    - '&7Villager particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla czasteczki'
+    - '&7zdenerwowanego wiesniaka'
   Happy Villager:
-    Name: '&5Happy Villager Particle'
+    Name: '&5Szczesliwy Wiesniak'
     Material: EMERALD
     Mystery Dust: 35
     Rarity: Epic
@@ -130,11 +120,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Happy'
-    - '&7Villager particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla czasteczki'
+    - '&7szczesliwego wiesniaka'
   Town Aura:
-    Name: '&aTown Aura Particle'
+    Name: '&aGrzybnia'
     Material: MYCELIUM
     Mystery Dust: 18
     Rarity: Common
@@ -142,11 +131,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Town'
-    - '&7Aura particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla czasteczki'
+    - '&7grzybni wokol Ciebie'
   Note:
-    Name: '&5Note Particle'
+    Name: '&5Nuty'
     Material: NOTE_BLOCK
     Mystery Dust: 35
     Rarity: Epic
@@ -154,11 +142,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Note'
-    - '&7particles around you'
-    - '&7in lobby.'
+    - '&7Wyswietla nuty'
+    - '&7wokol Ciebie'
   Portal:
-    Name: '&aPortal Particle'
+    Name: '&aPortal'
     Material: ENDER_PEARL
     Mystery Dust: 18
     Rarity: Common
@@ -166,11 +153,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Portal'
-    - '&7particles around you'
-    - '&7in lobby.'
+    - '&7Wyswietla czasteczki'
+    - '&7portalu wokol Ciebie'
   Enchantment Table:
-    Name: '&9Enchantment Table Particle'
+    Name: '&9Czasteczki Stolu do Zaklec'
     Material: ENCHANTING_TABLE
     Mystery Dust: 28
     Rarity: Rare
@@ -178,11 +164,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Enchantment'
-    - '&7Table particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla czasteczki'
+    - '&7stolu do zaklec wokol Ciebie'
   Flame:
-    Name: '&6Flame Particle'
+    Name: '&6Plomienie'
     Material: GOLD_NUGGET
     Mystery Dust: 45
     Rarity: Legendary
@@ -190,11 +175,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Flame'
-    - '&7particles around you'
-    - '&7in lobby.'
+    - '&7Wyswietla plomienie'
+    - '&7wokol Ciebie'
   Redstone:
-    Name: '&6Redstone Particle'
+    Name: '&6Redstone'
     Material: REDSTONE
     Mystery Dust: 48
     Rarity: Legendary
@@ -202,11 +186,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Redstone'
-    - '&7particles around you'
-    - '&7in lobby.'
+    - '&7Wyswietla czasteczki'
+    - '&7redstone wokol Ciebie'
   Heart:
-    Name: '&9Heart Particle'
+    Name: '&9Serca'
     Material: POPPY
     Mystery Dust: 28
     Rarity: Rare
@@ -214,11 +197,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Heart'
-    - '&7particles around you'
-    - '&7in lobby.'
+    - '&7Wyswietla serca'
+    - '&7wokol Ciebie'
   Fireworks Spark:
-    Name: '&6Fireworks Spark Particle'
+    Name: '&6Iskry Fajerwerek'
     Material: FIREWORK_ROCKET
     Mystery Dust: 52
     Rarity: Legendary
@@ -226,11 +208,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Fireworks'
-    - '&7Spark particles around'
-    - '&7you in lobby.'
+    - '&7Wyswietla iskry'
+    - '&7fajerwerek wokol Ciebie'
   Smoke:
-    Name: '&aSmoke Particle'
+    Name: '&aDym'
     Material: FIREWORK_STAR
     Mystery Dust: 18
     Rarity: Common
@@ -238,11 +219,10 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom Smoke'
-    - '&7particles around you'
-    - '&7in lobby.'
+    - '&7Wyswietla dym'
+    - '&7wokol Ciebie'
   Slime:
-    Name: '&aSlime Particle'
+    Name: '&aSzlam'
     Material: SLIME_BALL
     Mystery Dust: 22
     Rarity: Common
@@ -250,6 +230,5 @@ Particles:
     CanBeFound: true
     Purchasable: true
     Lore:
-    - '&7Display a custom slime'
-    - '&7particles around you'
-    - '&7in lobby.'
+    - '&7Wyswietla czasteczki'
+    - '&7slzamu wokol Ciebie'
