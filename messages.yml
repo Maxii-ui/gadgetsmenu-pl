@@ -1,4 +1,6 @@
-Prefix: '&2East&aCore &3&l>&0&l>&3&L> &r'
+# Translation by Team EastCore Staff.
+# Git: https://github.com/eastcore/gadgetsmenu-pl
+Prefix: '&2Nazwa&aSerwera &3&l>&0&l>&3&L> &r'
 GUI-Menus:
   Main: Glowne
   Hats: Czapki
