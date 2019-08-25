@@ -2,17 +2,17 @@
 # Git: https://github.com/eastcore/gadgetsmenu-pl
 Gadgets:
   Fun And Games:
-    Name: '&eFun & Games'
+    Name: '&eZabawa i Gry'
     Material: head:b89042082bb7a7618b784ee7605a134c58834e21e374c888937161057f6c7
     Enabled: true
     Lore:
-    - '&7Play games or just'
-    - '&7generally mess around in'
-    - '&7lobbies with these fun'
-    - '&7gadgets!'
+    - '&7Graj w gry'
+    - '&7lub poprostu pobaw się'
+    - '&7gadżetami w'
+    - '&7lobby!'
     Types:
       Magic 9 Ball:
-        Name: '&aMagic 9 Ball Gadget'
+        Name: '&aGadżet Magiczna kula 9'
         Material: BLACK_WOOL
         Cooldown: 3
         Mystery Dust: 22
@@ -21,17 +21,17 @@ Gadgets:
         CanBeFound: true
         Purchasable: true
         Messages:
-        - '&eThe Cat says: &fFEED ME.'
-        - '&eThe Troll says: &fTrololololololol'
-        - '&eThe staff says: &fPlease dont break rules.'
-        - '&eYour mom says: &fYou should stop playing so much games.'
-        - '&eKevin fisherman says: &fLets catch a fish!'
-        - '&eBryan Mills says: &fI will find you, and I will kill you.'
-        - '&eAnna says: &fDo you wanna build a snowman?'
-        - '&eMinion says: &fBEE DO BEE DO BEE DO!'
-        - '&eHerobrine says: &fNo one will survive!'
-        - '&eDog says: &fMeow!'
-        - '&eDarth Vader says: &fI am your father.'
+        - '&eKot mówi: &fNakarm mnie.'
+        - '&eTroll mówi: &fTrololololololol'
+        - '&eAdministracja mówi: &fStosuj się do regulaminu.'
+        - '&eTwoja mama mówi: &fPowinieneś przestać grać w tyle gier.'
+        - '&eRybak Kevin mówi: &fZłapmy rybę!'
+        - '&eBrajan Mills mówi: &fZnajdę Cię i zabiję.'
+        - '&eAnia mówi: &fchcesz zbudować bałwana?'
+        - '&eMinionek mówi: &fBEE DO BEE DO BEE DO!'
+        - '&eHerobrine mówi: &fNikt nie przetrwa!'
+        - '&ePies mówi: &fMiał!'
+        - '&eDart Vader mówi: &fJestem twoim ojcem.'
         - '&eElsa says: &fThe cold never bothered me anyway.'
         - '&eThe Creeper says: &fNo don''t worry. I won''t blow up in your face'
         - '&eNotch says: &fLife is more fun if you play minecraft.'
