@@ -2,79 +2,79 @@
 # Git: https://github.com/eastcore/gadgetsmenu-pl
 MainMenu:
   Hats:
-    Name: '&eHats'
+    Name: '&eCzapki'
     Material: DIAMOND_HELMET
     Lore:
-    - '&7Collect all the hats and'
-    - '&7wear them while in a lobby.'
+    - '&7Zdobadz wszystkie czapki'
+    - '&7i nos je bedac w lobby!'
+    - '&7Super zabawa gwarantowana!'
   Animated Hats:
-    Name: '&eAnimated Hats'
+    Name: '&eAnimowane Czapki'
     Material: head:5ebfd2396cbabdb42c348bcf41599c87a506a71ef60948c496f95c6cb63141
     Lore:
-    - '&7These hats take it a step'
-    - '&7further and move while on'
-    - '&7your head.'
+    - '&7Te czapki przenosza Minecrafta'
+    - '&7na nowy poziom, sa animowane!'
   Particles:
-    Name: '&eParticles'
+    Name: '&eCzasteczki'
     Material: BLAZE_POWDER
     Lore:
-    - '&7Make particles around you'
-    - '&7while standing in lobbies'
-    - '&7using these cool particle'
-    - '&7effects!'
+    - '&7Chcialbys wygladac fajnie?'
+    - '&7Wybierz jedne z wieru czasteczek'
+    - '&7i pochwal sie swoim kolegom'
+    - '&7jak fajnie z nimi wygladasz!'
   Suits:
-    Name: '&eSuits'
+    Name: '&eStroje'
     Material: GOLDEN_LEGGINGS
     Lore:
-    - '&7Collect and wear all the'
-    - '&7pieces from a specific suit'
-    - '&7to gain unique effects!'
+    - '&7Zmien sie w swoja ulubiona postac'
+    - '&7z gry, filmu lub internetu i zyskaj'
+    - '&7niesamowite zdolnosci!'
   Gadgets:
-    Name: '&eGadgets'
+    Name: '&eGadzety'
     Material: PISTON
     Lore:
-    - '&7These fun little toys'
-    - '&7can be used while'
-    - '&7in a lobby.'
+    - '&7Te male zabaweczki'
+    - '&7potrafia zmienic lobby'
+    - '&7w niesamowita impreze!'
   Pets:
-    Name: '&ePets'
+    Name: '&eZwierzaki'
     Material: BONE
     Lore:
-    - '&7Unlock these pets to have'
-    - '&7them follow you around in'
-    - '&7lobbies!'
+    - '&7Chcialbys aby zwierzeta i potwory'
+    - '&7z Minecrafta podazaly za toba w lobby?'
+    - '&7To dobrze, bo mamy taka mozliwosc!'
+    - '&7Nie bedziesz musial sie martwic, ze'
+    - '&7twoj Creeper zniszczy Ci twoja baze nigdy wiecej!'
   Morphs:
-    Name: '&eMorphs'
+    Name: '&eMorfy'
     Material: ZOMBIE_HEAD
     Lore:
-    - '&7The ultimate transformation!'
-    - '&7Using these in lobbies'
-    - '&7will make you transform'
-    - '&7into a monster and unlock'
-    - '&7unique powers for everyone'
-    - '&7else to see!'
+    - '&7Zostan Transformersem!'
+    - '&7Dzieki temu, mozesz zamienic sie'
+    - '&7w zwierzaki i potwory z Minecrafta'
+    - '&7i odblokowac niesamowite zdolnosci!'
+    - '&7Pokaz wszystkim na co Cie stac!'
   Banners:
-    Name: '&eBanners'
+    Name: '&eBanery'
     Material: CUSTOM_MATERIAL_1
     Lore:
-    - '&7Unlock all the Banners and'
-    - '&7wear them as hats while in'
-    - '&7in a lobby!'
+    - '&7Banery? Zaloz jeden z nich'
+    - '&7na glowe i udawaj, ze masz zamiar'
+    - '&7podbic nasz serwer!'
   Emotes:
-    Name: '&eEmotes'
+    Name: '&eEmotki'
     Material: head:60c432cbc490a8af6e9dfeb28095c0a0ec79fff705fb184674d1e743bd05baa
     Lore:
-    - '&7Express yourself! Show the'
-    - '&7world how you''re feeling'
-    - '&7with these unique animated'
-    - '&7Emotes.'
+    - '&7Pokaz wszystkim w lobby co czujesz!'
+    - '&7Niesamowita i animowana zabawa!'
+    - '&7Mozliwe, ze Cie zrouzumia.'
   Cloaks:
-    Name: '&eCloaks'
+    Name: '&ePeleryny'
     Material: ENCHANTING_TABLE
     Lore:
-    - '&7Made of particles, these'
-    - '&7cloaks provide ultimate'
-    - '&7swag. To activate them,'
-    - '&7stand still for 1 second'
-    - '&7while in a lobby.'
+    - '&7Stworzone z czasteczek,'
+    - '&7te peleryny sprawia, ze'
+    - '&7dostaniesz +100 do SWAGU!,'
+    - '&7Nie ruszaj sie przez 1 sekunde'
+    - '&7aby aktywowac.'
 Slot-Layout: 10, 12, 14, 16, 27, 29, 31, 33, 35
