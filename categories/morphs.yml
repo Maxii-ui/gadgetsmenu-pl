@@ -2,7 +2,7 @@
 # Git: https://github.com/eastcore/gadgetsmenu-pl
 Morphs:
   Pig:
-    Name: '&9Pig Morph'
+    Name: '&9Swinka'
     Material: COOKED_PORKCHOP
     Cooldown: 10
     Mystery Dust: 25
@@ -12,12 +12,12 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Pig. While'
-    - '&7transformed, you can squeal'
-    - '&7by right-clicking the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Zamien sie w swinke. Bedac'
+    - '&7przemienionym mozesz kwiczec'
+    - '&7poprzez klikanie prawym przyciskiem'
+    - '&7myszy na kule szlamu.'
   Cow:
-    Name: '&9Cow Morph'
+    Name: '&9Krowa'
     Material: COOKED_BEEF
     Cooldown: 10
     Mystery Dust: 20
@@ -27,12 +27,12 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Cow. While'
-    - '&7transformed, you can moo'
-    - '&7by right-clicking the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Zamien sie w krowe. Bedac'
+    - '&7przemienionym mozesz muczyc'
+    - '&7poprzez klikanie prawym przyciskiem'
+    - '&7myszy na kule szlamu.'
   Enderman:
-    Name: '&5Enderman Morph'
+    Name: '&5Enderman'
     Material: ENDER_PEARL
     Cooldown: 10
     Mystery Dust: 60
@@ -42,12 +42,12 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Enderman. While'
-    - '&7transformed, you can teleport'
-    - '&7randomly by right-clicking the'
-    - '&7Slimeball item in your hotbar.'
+    - '&7Zamien sie w endermana. Bedac'
+    - '&7przemienionym mozesz sie teleportowac'
+    - '&7w losowe miejsce poprzez klikanie'
+    - '&7prawym przyciskiem myszy na kule szlamu.'
   Chicken:
-    Name: '&5Chicken Morph'
+    Name: '&5Kurczak'
     Material: EGG
     Cooldown: 10
     Mystery Dust: 35
@@ -57,12 +57,12 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Chicken. While'
-    - '&7transformed, you can lay eggs'
-    - '&7by right-clicking the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Zamien sie w kurczaka. Bedac'
+    - '&7przemienionym mozesz skladac jaja'
+    - '&7poprzez klikanie prawym przyciskiem'
+    - '&7myszy na kule szlamu.'
   Spider:
-    Name: '&5Spider Morph'
+    Name: '&5Pajak'
     Material: COBWEB
     Cooldown: 10
     Mystery Dust: 50
@@ -72,13 +72,12 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Spider. While'
-    - '&7transformed, you can shoot webs'
-    - '&7all around you by right-clicking'
-    - '&7the Slimeball item in your'
-    - '&7hotbar.'
+    - '&7Zamien sie w pajaka. Bedac'
+    - '&7przemienionym mozesz strzelac pajeczynami'
+    - '&7poprzez klikanie prawym przyciskiem'
+    - '&7myszy na kule szlamu.'
   Sheep:
-    Name: '&5Sheep Morph'
+    Name: '&5Owca'
     Material: WHITE_WOOL
     Cooldown: 10
     Mystery Dust: 50
@@ -88,13 +87,13 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Sheep. While'
-    - '&7transformed, you can activate'
-    - '&7Rainbow Sheep Mode by'
-    - '&7right-clicking the Slimeball item'
-    - '&7in your hotbar.'
+    - '&7Zamien sie w owce. Bedac'
+    - '&7przemienionym mozesz aktywowac'
+    - '&7tryb Teczy poprzez'
+    - '&7klikanie prawym przyciskiem'
+    - '&7myszy na kule szlamu.'
   Skeleton:
-    Name: '&5Skeleton Morph'
+    Name: '&5Szkielet'
     Material: BOW
     Cooldown: 10
     Mystery Dust: 70
@@ -104,12 +103,12 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Skeleton. While'
-    - '&7transformed, you can shoot arrows'
-    - '&7by right-clicking the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Zamien sie w szkieleta. Bedac'
+    - '&7przemienionym mozesz wystrzeliwac strzaly'
+    - '&7poprzez klikanie prawym przyciskiem'
+    - '&7myszy na kule szlamu.'
   Creeper:
-    Name: '&6Creeper Morph'
+    Name: '&6Creeper'
     Material: TNT
     Cooldown: 10
     Mystery Dust: 95
@@ -119,13 +118,13 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Creeper. While'
-    - '&7transformed, you can explode to'
-    - '&7knock nearby players aways by'
-    - '&7right-clicking the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Zamien sie w creepera. Bedac'
+    - '&7przemienionym mozesz eksplodowac'
+    - '&7poprzez klikanie prawym przyciskiem'
+    - '&7myszy na kule szlamu.'
+    - '&8&lAw    Man'
   Blaze:
-    Name: '&6Blaze Morph'
+    Name: '&6Plomyk'
     Material: BLAZE_POWDER
     Cooldown: 10
     Mystery Dust: 125
@@ -135,12 +134,12 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Blaze. While'
-    - '&7transformed, you can shoot'
-    - '&7fireballs by right-clicking the'
-    - '&7Slimeball item in your hotbar.'
+    - '&7Zamien sie w plomyka. Bedac'
+    - '&7przemienionym mozesz strzelac kulami'
+    - '&7ognia poprzez klikanie prawym'
+    - '&7przyciskiem myszy na kule szlamu.'
   Zombie:
-    Name: '&6Zombie Morph'
+    Name: '&6Zombie'
     Material: ROTTEN_FLESH
     Cooldown: 10
     Mystery Dust: 105
@@ -150,13 +149,12 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Zombie. While'
-    - '&7transformed, you can infect other'
-    - '&7players and turn them into a'
-    - '&7zombie by right-clicking with'
-    - '&7the Slimeball item in your hotbar.'
+    - '&7Zamien sie w zombie. Bedac'
+    - '&7przemienionym mozesz zamieniac innych'
+    - '&7w zombie poprzez klikanie prawym'
+    - '&7przyciskiem myszy na kule szlamu.'
   Iron Golem:
-    Name: '&6Iron Golem Morph'
+    Name: '&6Zelazny Golem'
     Material: IRON_BLOCK
     Cooldown: 10
     Mystery Dust: 120
@@ -166,13 +164,13 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Iron Golem.'
-    - '&7While transformed, you can vigorously'
-    - '&7hit the ground by'
-    - '&7right-clicking with the Slimeball'
-    - '&7item in your hotbar.'
+    - '&7Zamien sie w Zelaznego Golema.'
+    - '&7Bedac przemienionym mozesz'
+    - '&7uderzac w ziemie z duza moca'
+    - '&7poprzez klikanie prawym przyciskiem'
+    - '&7myszy na kule szlamu.'
   Witch:
-    Name: '&6Witch Morph'
+    Name: '&6Wiedzma'
     Material: POTION:8196
     Cooldown: 10
     Mystery Dust: 110
@@ -182,12 +180,12 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Witch. While'
-    - '&7transformed, you can throw special'
-    - '&7potions by right-clicking with the'
-    - '&7Slimeball item in your hotbar.'
+    - '&7Zamien sie w wiedzme. Bedac'
+    - '&7przemienionym mozesz rzucac specjalne'
+    - '&7mikstury poprzez klikanie prawym'
+    - '&7przyciskiem myszy na kule szlamu.'
   Snowman:
-    Name: '&6Snowman Morph'
+    Name: '&6Balwan'
     Material: SNOWBALL
     Cooldown: 10
     Mystery Dust: 125
@@ -197,13 +195,12 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Snowman. While'
-    - '&7transformed, you can throw'
-    - '&7snowballs by right-clicking with'
-    - '&7the Slimeball item in your'
-    - '&7hotbar.'
+    - '&7Zamien sie w balwana. Bedac'
+    - '&7przemienionym mozesz rzucac sniezki'
+    - '&7poprzez klikanie prawym przyciskiem'
+    - '&7myszy na kule szlamu.'
   Guardian:
-    Name: '&6Guardian Morph'
+    Name: '&6Straznik'
     Material: PRISMARINE_SHARD
     Cooldown: 10
     Mystery Dust: 130
@@ -213,8 +210,7 @@ Morphs:
     Purchasable: true
     Enabled-Ability: true
     Lore:
-    - '&7Transform into a Guardian.'
-    - '&7While transformed, you can shoot'
-    - '&7lasers by right-clicking with'
-    - '&7the Slimeball item in your'
-    - '&7hotbar.'
+    - '&7Zamien sie w straznika. Bedac'
+    - '&7przemienionym mozesz uzywac laserow'
+    - '&7poprzez klikanie prawym przyciskiem'
+    - '&7myszy na kule szlamu.'
