@@ -2,7 +2,7 @@
 # Git: https://github.com/eastcore/gadgetsmenu-pl
 Emotes:
   Smile:
-    Name: '&aSmile Emote'
+    Name: '&aUsmiech'
     Cooldown: 10
     Mystery Dust: 10
     Rarity: Common
@@ -11,14 +11,13 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: '&fsmiles'
+      Text: '&fusmiecha sie'
     Lore:
-    - '&7Feeling great? Show the'
-    - '&7world how happy you are'
-    - '&7with this animated Smile'
-    - '&7emote!'
+    - '&7Czujesz sie dobrze?'
+    - '&7Pokaz swiatu jak sczesliwy'
+    - '&7jestes uzywajac tej emotki!'
   Cool:
-    Name: '&aCool Emote'
+    Name: '&aFajny'
     Cooldown: 10
     Mystery Dust: 12
     Rarity: Common
@@ -29,12 +28,12 @@ Emotes:
       Enabled: true
       Text: '&fB)'
     Lore:
-    - '&7Feel like the coolest cat'
-    - '&7on the server? Strut your'
-    - '&7stuff with this animated'
-    - '&7Cool emote!'
+    - '&7Czujesz sie jak najfajniejszy'
+    - '&7gracz na serwerze?'
+    - '&7Pokaz to wszystkim uzywajac'
+    - '&7tej emotki!'
   Wink:
-    Name: '&aWink Emote'
+    Name: '&aOczko'
     Cooldown: 10
     Mystery Dust: 12
     Rarity: Common
@@ -43,14 +42,14 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: '&fwinks'
+      Text: '&fpuszcza oczko'
     Lore:
-    - '&7Having fun? Let someone'
-    - '&7know you''re in on the joke'
-    - '&7with this animated Wink'
-    - '&7emote!'
+    - '&7Swietnie sie bawisz?'
+    - '&7Niech wszyscy wiedza, ze'
+    - '&7lapiesz ten zart uzywajac'
+    - '&7tej emotki!'
   Grin:
-    Name: '&aGrin Emote'
+    Name: '&aSzeroki Usmiech'
     Cooldown: 10
     Mystery Dust: 13
     Rarity: Common
@@ -59,14 +58,14 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: '&fYay!'
+      Text: '&fJej!'
     Lore:
-    - '&7If you are feeling amazing,'
-    - '&7there''s no better way to'
-    - '&7show it than with this'
-    - '&7animated Grin emote!'
+    - '&7Jesli czujes sie niesamowicie,'
+    - '&7to nie ma lepszej opcji niz'
+    - '&7pokazanie tego wszystkim'
+    - '&7uzywajac tej emotki!'
   Surprised:
-    Name: '&aSurprised Emote'
+    Name: '&aZaskoczony'
     Cooldown: 10
     Mystery Dust: 15
     Rarity: Common
@@ -77,12 +76,11 @@ Emotes:
       Enabled: true
       Text: '&fOMG'
     Lore:
-    - '&7Has something shocked you?'
-    - '&7Let the lobby know with'
-    - '&7this animated Surprised'
-    - '&7emote!'
+    - '&7Cos Cie zaskoczylo?'
+    - '&7Niech wszyscy o tym wiedza'
+    - '&7uzywajac tej emotki!'
   Cry:
-    Name: '&9Cry Emote'
+    Name: '&9Placz'
     Cooldown: 10
     Mystery Dust: 25
     Rarity: Rare
@@ -91,13 +89,13 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: '&fWaaaaa!'
+      Text: '&f;('
     Lore:
-    - '&7You feel sad? Shed tears'
-    - '&7with this animated Crying'
-    - '&7emote!'
+    - '&7Jestes smutny?'
+    - '&7otrzyj lzy uzywajac'
+    - '&7tej emotki!'
   Sleepy:
-    Name: '&9Sleepy Emote'
+    Name: '&9Spiacy'
     Cooldown: 10
     Mystery Dust: 20
     Rarity: Rare
@@ -108,12 +106,11 @@ Emotes:
       Enabled: true
       Text: '&fZZzzzz'
     Lore:
-    - '&7Stayed up all night playing'
-    - '&7your favorite game? Fall'
-    - '&7asleep with this animated'
-    - '&7Sleepy emote!'
+    - '&7Nie spales w nocy tylko grales'
+    - '&7w swoja ulubiona gre?'
+    - '&7wykaz to uzywajac tej emotki!'
   Rage:
-    Name: '&9Rage Emote'
+    Name: '&9Gniew'
     Cooldown: 10
     Mystery Dust: 23
     Rarity: Rare
@@ -122,13 +119,12 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: '&cGRRRRR!!!'
+      Text: '&cGRRRR!!!'
     Lore:
-    - '&7Is something boiling your'
-    - '&7blood? Let off steam with'
-    - '&7this animated Rage Emote!'
+    - '&7Czy puscily Ci nerwy?'
+    - '&7Ochlon uzywajac tej emotki!'
   Frown:
-    Name: '&9Frown Emote'
+    Name: '&9Smutek'
     Cooldown: 10
     Mystery Dust: 22
     Rarity: Rare
@@ -137,13 +133,13 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: '&fsniff'
+      Text: '&f:<'
     Lore:
-    - '&7Has something got you down?'
-    - '&7Let the world know with'
-    - '&7this animated Frown Emote!'
+    - '&7Czy cos Cie przydolowalo?'
+    - '&7Niech kazdy Cie pocieszy'
+    - '&7przy uzyciu tej emotki!'
   Cheeky:
-    Name: '&9Cheeky Emote'
+    Name: '&9Zuchwaly'
     Cooldown: 10
     Mystery Dust: 22
     Rarity: Rare
@@ -154,12 +150,11 @@ Emotes:
       Enabled: true
       Text: '&f:P'
     Lore:
-    - '&7Up to some mischief? Warn'
-    - '&7everyone how you''re feeling'
-    - '&7with this animated Cheeky'
-    - '&7Emote!'
+    - '&7Masz zamiar zrobic jakas psote?'
+    - '&7Ostrzez wszystkich uzywajac'
+    - '&7tej emotki!'
   Sun Tan:
-    Name: '&9Sun Tan Emote'
+    Name: '&9Opalenizna'
     Cooldown: 10
     Mystery Dust: 25
     Rarity: Rare
@@ -168,15 +163,14 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: '&fSunny'
+      Text: '&fSlonecznie'
     Lore:
-    - '&7Did you forget your sun'
-    - '&7screen when you went to the'
-    - '&7beach? Let others know how'
-    - '&7crispy you are with this'
-    - '&7Sun Tan Emote!'
+    - '&7Czybys zapomnial kremu przeciwslonecznego,'
+    - '&7kiedy poszedles na plaze?'
+    - '&7Niech wszyscy o tym wiedza
+    - '&7przy uzyciu tej emotki!'
   Heart Eyes:
-    Name: '&9Heart Eye Emote'
+    Name: '&9Zakochany'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -187,11 +181,11 @@ Emotes:
       Enabled: true
       Text: '&d❤  ❤'
     Lore:
-    - '&7Feeling good? Spread the'
-    - '&7good vibes with the Heart'
-    - '&7Eyes Emote!'
+    - '&7Twoje serce bije mocniej'
+    - '&7kiedy kogos widzisz?'
+    - '&7Okaz swoja milosc uzywajac tej emotki!'
   Dizzy:
-    Name: '&9Dizzy Emote'
+    Name: '&9Oszolomiony'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -202,12 +196,11 @@ Emotes:
       Enabled: true
       Text: '&fx_x'
     Lore:
-    - '&7The rollercoaster is not'
-    - '&7for you? Show others how'
-    - '&7you feel with the Dizzy'
-    - '&7Emote!'
+    - '&7Kolejka Gorska nie jest'
+    - '&7dla Ciebie? Niech inni o tym'
+    - '&7wiedza uzywajac tej emotki!'
   RIP:
-    Name: '&9RIP Emote'
+    Name: '&9Spoczywaj w Pokoju'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -216,14 +209,13 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: '&fRest In Pepperoni'
+      Text: '&fSpoczywaj W &cPepperoni'
     Lore:
-    - '&7Did you get that final'
-    - '&7blow? Show mercy to your'
-    - '&7opponents with this Rest In'
-    - '&7Pepperoni Emote!'
+    - '&7Zadales ostatni cios?'
+    - '&7Okaz laske swoim przeciwnikom'
+    - '&7uzywajac tej emotki!'
   Relax:
-    Name: '&9Relax Emote'
+    Name: '&9Zrelaksowany'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -232,12 +224,12 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: '&fPhew'
+      Text: '&fUff'
     Lore:
-    - '&7Feeling cozy? You surely'
-    - '&7will with the Relax Emote!'
+    - '&7Jest Ci przytulnie?'
+    - '&7Na pewno Ci bedzie z ta emotka!'
   Spicy:
-    Name: '&9Spicy Emote'
+    Name: '&9Pikantny'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -246,13 +238,13 @@ Emotes:
     Purchasable: true
     Hologram:
       Enabled: true
-      Text: '&fBurns!'
+      Text: '&fPali!'
     Lore:
-    - '&7Did that habanero pepper'
-    - '&7get to you? Let the rest'
-    - '&7know with this Spicy Emote!'
+    - '&7Czy ta papryka habanero'
+    - '&7zaczela palic twoj przelyk?'
+    - '&7Okaz to uzywajac tej emotki!'
   Deal With It:
-    Name: '&9Deal With It Emote'
+    Name: '&9"Deal With It Emote"'
     Cooldown: 10
     Mystery Dust: 28
     Rarity: Rare
@@ -263,7 +255,7 @@ Emotes:
       Enabled: true
       Text: '&fDeal With It :)'
     Lore:
-    - '&7Do you feel like showing'
-    - '&7off? Let others see how'
-    - '&7cool you feel with the real'
-    - '&7Deal With It Emote!'
+    - '&7Lubisz sie chwalic?'
+    - '&7Pokaz innym jak bardzo'
+    - '&7fajny jestes z oryginalna'
+    - '&7emotka "Deal With It"!'
