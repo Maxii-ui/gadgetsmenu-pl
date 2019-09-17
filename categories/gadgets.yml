@@ -186,11 +186,11 @@ Gadgets:
           Declined-Flower: '{PLAYER} &codrzucil twoj kwiatek!'
           Right-Click-To-Remove-Flower: '&eUzyj prawego przycisku aby usunac kwiatek!'
         Lore:
-        - '&7Spread the good vibes by'
-        - '&7giving flowers to everyone'
-        - '&7around you!'
+        - '&7Rozpowszechniaj dobre uczycia'
+        - '&7dajac kwiaty'
+        - '&7każdemu blisko Ciebie.'
       Sand Castle:
-        Name: '&9Sand Castle Gadget'
+        Name: '&9Zamek Piaskowy'
         Material: head:9918b3b7516b1946566fd7b287f82ef44afafea9a2c3bd385691f7f0f42097f8
         Cooldown: 30
         Mystery Dust: 28
@@ -199,10 +199,10 @@ Gadgets:
         CanBeFound: true
         Purchasable: true
         Lore:
-        - '&7Build your own castle with'
-        - '&7real sand!'
+        - '&7Stwórz swój własny zamek'
+        - '&7z prawdziwego piasku!'
       BBQ Grill:
-        Name: '&5BBQ Grill Gadget'
+        Name: '&5Grill'
         Material: OBSIDIAN
         Cooldown: 45
         Mystery Dust: 58
@@ -211,11 +211,10 @@ Gadgets:
         CanBeFound: true
         Purchasable: true
         Lore:
-        - '&7Come on, you earned it!'
-        - '&7Celebrate a real party BBQ'
-        - '&7style!'
+        - '&7Daj spokój, zasłużyłeś!'
+        - '&7Świętuj prawdziwe przyjęcie grillowe!'
       Pocket Beach:
-        Name: '&5Pocket Beach Gadget'
+        Name: '&5Przenośna plaża'
         Material: SAND
         Cooldown: 60
         Mystery Dust: 55
@@ -224,9 +223,9 @@ Gadgets:
         CanBeFound: true
         Purchasable: true
         Lore:
-        - '&7Can''t go to the beach? No'
-        - '&7problem! Carry your own'
-        - '&7spot in your pocket!'
+        - '&7Nie możesz iść na plaże? Nie ma'
+        - '&7problemu! Weź swoja własna plaże'
+        - '&7w twojej kieszeni!!'
       Ice Cream Stand:
         Name: '&6Ice Cream Stand Gadget'
         Material: head:239299c36b54bb11e57c686bfe53a5c1c441310f90f69347bacddbf343609d
