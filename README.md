@@ -1,4 +1,5 @@
 [![Discord](https://img.shields.io/static/v1?label=DISCORD&message=EASTCORE.EU&color=000&style=for-the-badge&logo=discord)](https://go.eastcore.eu/discord)
+
 [README English Version](https://github.com/eastcore/gadgetsmenu-pl/blob/master/README-EN.md)
 # GadgetsMenu po Polsku
 Polskie Tłumaczenie Do GadgetsMenu, wykonane przez administrację serwera minecraft EastCore.eu (Nub, DCDS002, dada513)
