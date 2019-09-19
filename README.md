@@ -1,3 +1,5 @@
+![gmenu](https://proxy.spigotmc.org/87bef4874240fc46ad048ced8c2d7dd6bcadcc22?url=https%3A%2F%2Fi.imgur.com%2FI3pb847.png)
+
 [![Discord](https://img.shields.io/static/v1?label=DISCORD&message=EASTCORE.EU&color=000&style=for-the-badge&logo=discord)](https://go.eastcore.eu/discord)
 
 [![Star](https://img.shields.io/github/stars/eastcore/gadgetsmenu-pl?style=social)](https://github.com/eastcore/gadgetsmenu-pl) [![Watch](https://img.shields.io/github/watchers/eastcore/gadgetsmenu-pl?label=Watch&style=social)](https://github.com/eastcore/gadgetsmenu-pl)
