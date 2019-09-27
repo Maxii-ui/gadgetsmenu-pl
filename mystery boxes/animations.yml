@@ -8,7 +8,7 @@ Animations:
     Mini-Block:
       Material: ENDER_CHEST
     Lore:
-    - '&7Wyczyść animację'
+    - '&7Wyczysc animacje'
     - '&7Mystery Boxa.'
   Normal:
     Name: '&aAnimacja: Normalna'
@@ -17,8 +17,8 @@ Animations:
     Mini-Block:
       Material: ENDER_CHEST
     Lore:
-    - '&7Ustaw animację Mystery Boxa'
-    - '&7na &aNormalną&7.'
+    - '&7Ustaw animacje Mystery Boxa'
+    - '&7na &aNormalna&7.'
   CountDown:
     Name: '&aAnimacja: Zegar'
     Material: CLOCK
@@ -26,7 +26,7 @@ Animations:
     Mini-Block:
       Material: ENDER_CHEST
     Lore:
-    - '&7Ustaw animację Mystery Boxa'
+    - '&7Ustaw animacje Mystery Boxa'
     - '&7na &aZegar&7.'
   Star:
     Name: '&aAnimacja: Gwiazda'
@@ -37,7 +37,7 @@ Animations:
     Mystery-Box-Quality-Block:
       Material: NETHER_STAR
     Lore:
-    - '&7Ustaw animację Mystery Boxa'
+    - '&7Ustaw animacje Mystery Boxa'
     - '&7na &aGwiazda&7.'
   Crafting:
     Name: '&aAnimacja: Crafting'
@@ -52,7 +52,7 @@ Animations:
         Y: 0
         Z: 45
     Lore:
-    - '&7Ustaw animację Mystery Boxa'
+    - '&7Ustaw animacje Mystery Boxa'
     - '&7na &aCrafting&7.'
   Summer:
     Name: '&aAnimacja: Lato'
@@ -63,7 +63,7 @@ Animations:
     Mystery-Box-Quality-Block:
       Material: SUNFLOWER
     Lore:
-    - '&7Ustaw animację Mystery Boxa'
+    - '&7Ustaw animacje Mystery Boxa'
     - '&7na &aLato&7.'
   Halloween:
     Name: '&aAnimacja: Halloween'
@@ -72,7 +72,7 @@ Animations:
     Mini-Block:
       Material: JACK_O_LANTERN
     Lore:
-    - '&7Ustaw animację Mystery Boxa'
+    - '&7Ustaw animacje Mystery Boxa'
     - '&7na &aHalloween&7.'
   Holiday:
     Name: '&aAnimacja: Wakacje'
@@ -83,5 +83,5 @@ Animations:
     Mystery-Box-Quality-Block:
       Material: SNOWBALL
     Lore:
-    - '&7Ustaw animację Mystery Boxa'
+    - '&7Ustaw animacje Mystery Boxa'
     - '&7na &aWakacje&7.'
