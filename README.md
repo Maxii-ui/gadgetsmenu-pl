@@ -1,7 +1,5 @@
 ![gmenu](https://camo.githubusercontent.com/095ccaf913fbfcd84a4942747df23de5e3bd9648/68747470733a2f2f706c656173652d7577752e6d652f657a584439452e706e67)
 
-[![Discord](https://img.shields.io/static/v1?label=DISCORD&message=EASTCORE.EU&color=000&style=for-the-badge&logo=discord)](https://go.eastcore.eu/discord)
-
 [![Star](https://img.shields.io/github/stars/eastcore/gadgetsmenu-pl?style=social)](https://github.com/eastcore/gadgetsmenu-pl) [![Watch](https://img.shields.io/github/watchers/eastcore/gadgetsmenu-pl?label=Watch&style=social)](https://github.com/eastcore/gadgetsmenu-pl)
 
 [README English Version](https://github.com/eastcore/gadgetsmenu-pl/blob/master/README-EN.md)
