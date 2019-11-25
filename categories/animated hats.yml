@@ -18,7 +18,8 @@ Animated-Hats:
     Purchasable: true
     Lore: ''
   Chroma Slime:
-    Name: '&9Chromowany Szlam'
+# chroma - chromatic = barwny/kolorowy
+    Name: '&9Kolorowy Szlam'
     Mystery Dust: 28
     Rarity: Rare
     Enabled: true
